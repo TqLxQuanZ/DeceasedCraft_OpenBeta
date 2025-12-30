@@ -718,7 +718,7 @@
   "quest.guide.survival.medkit.description_1": "O melhor nível de tratamento médico. Você poderia fabricá-los... mas talvez seja melhor tentar encontrá-los em \u00a7bhospitais\u00a7r.",
   "quest.guide.survival.headache.title": "Dor de Cabeça",
   "quest.guide.survival.headache.subtitle": "Causada por danos na sua cabeça.",
-  "quest.guide.survival.headache.description_1": "Dores de cabeça ocasionalmente lhe causam §ccegueira§r, cuidado!",
+  "quest.guide.survival.headache.description_1": "Dores de cabeça ocasionalmente lhe causam \u00a7ccegueira\u00a7r \u2014 cuidado!",
   "quest.guide.survival.vulnerability.title": "Vulnerabilidade",
   "quest.guide.survival.vulnerability.subtitle": "Causada por danos no seu tronco.",
   "quest.guide.survival.vulnerability.description_1": "Todo dano recebido de qualquer fonte, exceto queda, é \u00a7caumentado\u00a7r em 20%% por nível.",
