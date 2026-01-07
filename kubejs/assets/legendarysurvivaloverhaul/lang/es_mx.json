@@ -319,5 +319,5 @@
 	"screen.legendarysurvivaloverhaul.datapack_transfer.title": "Legendary Survival Overhaul - WARNING - CONFIG NOW ON DATAPACK",
 	"screen.legendarysurvivaloverhaul.datapack_transfer.text": "Your custom JSON configurations of Legendary Survival Overhaul are now OBSOLETE. LSO now uses DATAPACKS to REPLACE the JSON files.\nA datapack-ready folder (named 'customDataPack') has been created in the config folder of LSO with all the custom values you have defined.\n\nIF YOU PLAY ON A SERVER :\n\nON SERVER SIDE : \n1) Go in the legendary survival overhaul config folder (button on this screen)\n2) Cut the 'customDataPack' folder\n3) Go in the saves > 'Your world' > datapacks folder (still on SERVER side)\n4) Paste the customDataPack folder here. Your custom configs will then work in game.\n\nON CLIENT SIDE : \n5) Go in the LSO config folder \n6) Remove the customDataPack & the json folders.\n\nIF YOU PLAY LOCALLY :\n\nFollow steps 1) to 4) but locally: cut paste the 'customDataPack' folder in the saves > 'your world' > datapacks folder.\n\n\nDON'T FORGET to remove the json folder & customDataPack folders both on SERVER & CLIENT, otherwise this message will be rendered at every launch.",
 	"screen.legendarysurvivaloverhaul.datapack_transfer.open_folder": "Open Config folder"
-
 }
+
