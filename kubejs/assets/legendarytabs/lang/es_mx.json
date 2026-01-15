@@ -1,0 +1,15 @@
+{
+  "tooltip.legendarytabs.tab.backpack.description": "Mochila",
+  "tooltip.legendarytabs.tab.body_damage.description": "Salud Corporal",
+  "tooltip.legendarytabs.tab.ftb_quests.description": "Misiones",
+  "tooltip.legendarytabs.tab.ftb_teams.description": "Equipos",
+  "tooltip.legendarytabs.tab.inventory.description": "Inventario",
+  "tooltip.legendarytabs.tab.reskillable.description": "Habilidades",
+  "tooltip.legendarytabs.tab.reskillable_reimagined.description": "Habilidades",
+  "tooltip.legendarytabs.tab.map_atlases.description": "Mapa",
+  "tooltip.legendarytabs.tab.xaeros_map.description": "Mapa",
+  "tooltip.legendarytabs.tab.journey_map.description": "Mapa",
+  "tooltip.legendarytabs.tab.diet.description": "Dieta",
+  "tooltip.legendarytabs.tab.passive_skill_tree.description": "Árbol de Habilidades",
+  "tooltip.legendarytabs.tab.pufferfish_skills.description": "Árbol de Habilidades"
+}

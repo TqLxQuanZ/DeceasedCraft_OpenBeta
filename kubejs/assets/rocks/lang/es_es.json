@@ -1,0 +1,51 @@
+{
+	"itemGroup.rocks":"This Rocks!",
+	
+	"block.rocks.rock":"Rock",
+	"block.rocks.granite_rock":"Roca de granito",
+	"block.rocks.diorite_rock":"Roca de diorita",
+	"block.rocks.andesite_rock":"Roca de andesita",
+	"block.rocks.sand_rock":"Roca de arena",
+	"block.rocks.red_sand_rock":"Roca de arena roja",
+	"block.rocks.gravel_rock":"Roca de grava",
+	"block.rocks.end_stone_rock":"Roca de pieda del end",
+	"block.rocks.netherrack_rock":"Roca de netherrack",
+	"block.rocks.soul_soil_rock":"Roca de tierra de almas",
+	
+	"block.rocks.oak_stick":"Palo de roble",
+	"block.rocks.birch_stick":"Palo de abedul",
+	"block.rocks.spruce_stick":"Palo de abeto",
+	"block.rocks.jungle_stick":"Palo de la jungla",
+	"block.rocks.acacia_stick":"Palo de acacia",
+	"block.rocks.dark_oak_stick":"Palo de roble oscuro",
+	"block.rocks.mangrove_stick":"Palo de mangle",
+	"block.rocks.cherry_stick":"Palo de cerezo",
+	"block.rocks.bamboo_stick":"Palo de bambú",
+	"block.rocks.crimson_stick":"Palo carmesí",
+	"block.rocks.warped_stick":"Palo distorsionado",
+	
+	"block.rocks.geyser":"Géiser",
+	"block.rocks.nether_geyser":"Géiser de magma",
+	
+	"block.rocks.pinecone":"Piña de pino",
+	"block.rocks.seashell":"Concha marina",
+	"block.rocks.starfish":"Estrella de mar",
+	
+	"item.rocks.cobblestone_splitter":"Fragmento de roca",
+	"item.rocks.granite_splitter":"Fragmento de granito",
+	"item.rocks.diorite_splitter":"Fragmento de diorita",
+	"item.rocks.andesite_splitter":"Fragmento de andesita",
+	"item.rocks.sandstone_splitter":"Fragmento de arenisca",
+	"item.rocks.red_sandstone_splitter":"Fragmento de arenisca roja",
+	"item.rocks.end_stone_splitter":"Fragmento de pieda del end",
+	"item.rocks.netherrack_splitter":"Fragmento de netherrack",
+	"item.rocks.soul_soil_splitter":"Fragmento de tierra de almas",
+
+	"rocks.midnightconfig.title":"This Rocks! Config",
+	"rocks.midnightconfig.needs_restart":"§c Restart game after changing config!",
+	"rocks.midnightconfig.rocks":"§aRocks",
+	"rocks.midnightconfig.sticks":"§aSticks",
+	"rocks.midnightconfig.misc":"§aMiscellaneous",
+	"rocks.midnightconfig.underwater_seashell":"Underwater Seashell",
+	"rocks.midnightconfig.underwater_starfish":"Underwater Starfish"
+}
