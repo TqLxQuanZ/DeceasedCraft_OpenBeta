@@ -1,0 +1,167 @@
+{
+  "block.simplylight.edge_light": "Luz de borde dinámica (inferior)",
+  "block.simplylight.edge_light.info": "Sigue las paredes a su alrededor,",
+  "block.simplylight.edge_light.info2": "perfecta para pasillos.",
+  "block.simplylight.edge_light.jei.info": "Cambiará de forma dependiendo de los bloques que tenga alrededor al colocarse.\nLa forma se mantendrá después, permitiéndote crear formas usando bloques temporales.",
+  
+  "block.simplylight.edge_light_top": "Luz de borde dinámica (superior)",
+  "block.simplylight.edge_light_top.info": "Sigue las paredes a su alrededor,",
+  "block.simplylight.edge_light_top.info2": "perfecta para pasillos.",
+  "block.simplylight.edge_light_top.jei.info": "Cambiará de forma dependiendo de los bloques que tenga alrededor al colocarse.\nLa forma se mantendrá después, permitiéndote crear formas usando bloques temporales.",
+  
+  "block.simplylight.illuminant_black_block": "Bloque negro luminoso",
+  "block.simplylight.illuminant_black_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_black_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_black_block_on": "Bloque negro luminoso (Invertido)",
+  "block.simplylight.illuminant_black_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_black_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_block": "Bloque luminoso",
+  "block.simplylight.illuminant_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_block_on": "Bloque luminoso (Invertido)",
+  "block.simplylight.illuminant_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_block_on.info2": "Se desactiva por %s.",
+  
+ "block.simplylight.illuminant_blue_block": "Bloque azul luminoso",
+ "block.simplylight.illuminant_blue_block.info": "Bloque de luz simple,",
+ "block.simplylight.illuminant_blue_block.info2": "Se activa por %s.",
+
+ "block.simplylight.illuminant_blue_block_on": "Bloque azul luminoso (Invertido)",
+ "block.simplylight.illuminant_blue_block_on.info": "Bloque de luz simple,",
+ "block.simplylight.illuminant_blue_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_brown_block": "Bloque café luminoso",
+  "block.simplylight.illuminant_brown_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_brown_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_brown_block_on": "Bloque café luminoso (Invertido)",
+  "block.simplylight.illuminant_brown_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_brown_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_cyan_block": "Bloque cian luminoso",
+  "block.simplylight.illuminant_cyan_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_cyan_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_cyan_block_on": "Bloque cian luminoso (Invertido)",
+  "block.simplylight.illuminant_cyan_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_cyan_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_gray_block": "Bloque gris luminoso",
+  "block.simplylight.illuminant_gray_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_gray_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_gray_block_on": "Bloque gris luminoso (Invertido)",
+  "block.simplylight.illuminant_gray_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_gray_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_green_block": "Bloque verde luminoso",
+  "block.simplylight.illuminant_green_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_green_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_green_block_on": "Bloque verde luminoso (Invertido)",
+  "block.simplylight.illuminant_green_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_green_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_light_blue_block": "Bloque azul claro luminoso",
+  "block.simplylight.illuminant_light_blue_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_light_blue_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_light_blue_block_on": "Bloque azul claro luminoso (Invertido)",
+  "block.simplylight.illuminant_light_blue_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_light_blue_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_light_gray_block": "Bloque gris claro luminoso",
+  "block.simplylight.illuminant_light_gray_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_light_gray_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_light_gray_block_on": "Bloque gris claro luminoso (Invertido)",
+  "block.simplylight.illuminant_light_gray_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_light_gray_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_lime_block": "Bloque verde lima luminoso",
+  "block.simplylight.illuminant_lime_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_lime_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_lime_block_on": "Bloque verde lima luminoso (Invertido)",
+  "block.simplylight.illuminant_lime_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_lime_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_magenta_block": "Bloque magenta luminoso",
+  "block.simplylight.illuminant_magenta_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_magenta_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_magenta_block_on": "Bloque magenta luminoso (Invertido)",
+  "block.simplylight.illuminant_magenta_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_magenta_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_orange_block": "Bloque naranja luminoso",
+  "block.simplylight.illuminant_orange_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_orange_block.info2": "Se activa por %s.",
+  
+  "block.simplylight.illuminant_orange_block_on": "Bloque naranja luminoso (Invertido)",
+  "block.simplylight.illuminant_orange_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_orange_block_on.info2": "Se desactiva por %s.",
+  
+  "block.simplylight.illuminant_panel": "Panel luminoso",
+  "block.simplylight.illuminant_panel.info": "Panel de luz LED simple,",
+  "block.simplylight.illuminant_panel.info2": "Puede colocarse en cualquier dirección.",
+
+  "block.simplylight.illuminant_pink_block": "Bloque rosa luminoso",
+  "block.simplylight.illuminant_pink_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_pink_block.info2": "Se activa por %s.",
+
+  "block.simplylight.illuminant_pink_block_on": "Bloque rosa luminoso (Invertido)",
+  "block.simplylight.illuminant_pink_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_pink_block_on.info2": "Se desactiva por %s.",
+
+  "block.simplylight.illuminant_purple_block": "Bloque morado luminoso",
+  "block.simplylight.illuminant_purple_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_purple_block.info2": "Se activa por %s.",
+
+  "block.simplylight.illuminant_purple_block_on": "Bloque morado luminoso (Invertido)",
+  "block.simplylight.illuminant_purple_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_purple_block_on.info2": "Se desactiva por %s.",
+
+  "block.simplylight.illuminant_red_block": "Bloque rojo luminoso",
+  "block.simplylight.illuminant_red_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_red_block.info2": "Se activa por %s.",
+
+  "block.simplylight.illuminant_red_block_on": "Bloque rojo luminoso (Invertido)",
+  "block.simplylight.illuminant_red_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_red_block_on.info2": "Se desactiva por %s.",
+
+  "block.simplylight.illuminant_slab": "Losa luminosa",
+  "block.simplylight.illuminant_slab.info": "Losa de luz simple,",
+  "block.simplylight.illuminant_slab.info2": "Puede colocarse en cualquier dirección.",
+
+  "block.simplylight.illuminant_yellow_block": "Bloque amarillo luminoso",
+  "block.simplylight.illuminant_yellow_block.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_yellow_block.info2": "Se activa por %s.",
+
+  "block.simplylight.illuminant_yellow_block_on": "Bloque amarillo luminoso (Invertido)",
+  "block.simplylight.illuminant_yellow_block_on.info": "Bloque de luz simple,",
+  "block.simplylight.illuminant_yellow_block_on.info2": "Se desactiva por %s.",
+
+  "block.simplylight.lamp_post": "Columna luminosa",
+  "block.simplylight.lamp_post.info": "Poste de lámpara de 3 bloques de altura.",
+  "block.simplylight.lamp_post.info2": "El bloque superior emite luz.",
+
+  "block.simplylight.lightbulb": "Bombilla simple",
+  "block.simplylight.lightbulb.info": "Una bombilla simple,",
+  "block.simplylight.lightbulb.info2": "Puede colocarse en cualquier dirección.",
+
+  "block.simplylight.rodlamp": "Barra luminosa",
+  "block.simplylight.rodlamp.info": "Una simple barra de luz.",
+  "block.simplylight.rodlamp.info2": "Puede colocarse en cualquier dirección.",
+
+  "block.simplylight.wall_lamp": "Lámpara de pared",
+  "block.simplylight.wall_lamp.info": "Se puede colocar en paredes, techos y suelos.",
+
+  "itemGroup.simplylight": "Simply Light",
+  "simplylight.key.shift": "Shift",
+  "simplylight.redstone": "Redstone",
+  "simplylight.shift": "Mantén <%s> para más información."
+}
