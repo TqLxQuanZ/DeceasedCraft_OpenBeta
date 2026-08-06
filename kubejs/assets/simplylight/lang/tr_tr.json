@@ -1,0 +1,167 @@
+{
+  "block.simplylight.edge_light": "Dinamik Kenar Işığı (Alt)",
+  "block.simplylight.edge_light.info": "Çevresindeki duvarları takip eder,",
+  "block.simplylight.edge_light.info2": "koridorlar için mükemmeldir.",
+  "block.simplylight.edge_light.jei.info": "Yerleştirildiğinde çevresindeki bloklara göre şekil değiştirir.\nŞekil sonradan kalıcı olur, böylece geçici bloklar kullanarak şekiller oluşturabilirsiniz.",
+
+  "block.simplylight.edge_light_top": "Dinamik Kenar Işığı (Üst)",
+  "block.simplylight.edge_light_top.info": "Çevresindeki duvarları takip eder,",
+  "block.simplylight.edge_light_top.info2": "koridorlar için mükemmeldir.",
+  "block.simplylight.edge_light_top.jei.info": "Yerleştirildiğinde çevresindeki bloklara göre şekil değiştirir.\nŞekil sonradan kalıcı olur, böylece geçici bloklar kullanarak şekiller oluşturabilirsiniz.",
+
+  "block.simplylight.illuminant_black_block": "Siyah Işık Bloğu",
+  "block.simplylight.illuminant_black_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_black_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_black_block_on": "Siyah Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_black_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_black_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_block": "Işık Bloğu",
+  "block.simplylight.illuminant_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_block_on": "Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_blue_block": "Mavi Işık Bloğu",
+  "block.simplylight.illuminant_blue_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_blue_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_blue_block_on": "Mavi Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_blue_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_blue_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_brown_block": "Kahverengi Işık Bloğu",
+  "block.simplylight.illuminant_brown_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_brown_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_brown_block_on": "Kahverengi Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_brown_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_brown_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_cyan_block": "Turkuaz Işık Bloğu",
+  "block.simplylight.illuminant_cyan_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_cyan_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_cyan_block_on": "Turkuaz Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_cyan_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_cyan_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_gray_block": "Gri Işık Bloğu",
+  "block.simplylight.illuminant_gray_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_gray_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_gray_block_on": "Gri Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_gray_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_gray_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_green_block": "Yeşil Işık Bloğu",
+  "block.simplylight.illuminant_green_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_green_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_green_block_on": "Yeşil Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_green_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_green_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_light_blue_block": "Açık Mavi Işık Bloğu",
+  "block.simplylight.illuminant_light_blue_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_light_blue_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_light_blue_block_on": "Açık Mavi Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_light_blue_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_light_blue_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_light_gray_block": "Açık Gri Işık Bloğu",
+  "block.simplylight.illuminant_light_gray_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_light_gray_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_light_gray_block_on": "Açık Gri Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_light_gray_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_light_gray_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_lime_block": "Açık Yeşil Işık Bloğu",
+  "block.simplylight.illuminant_lime_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_lime_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_lime_block_on": "Açık Yeşil Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_lime_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_lime_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_magenta_block": "Eflatun Işık Bloğu",
+  "block.simplylight.illuminant_magenta_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_magenta_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_magenta_block_on": "Eflatun Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_magenta_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_magenta_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_orange_block": "Turuncu Işık Bloğu",
+  "block.simplylight.illuminant_orange_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_orange_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_orange_block_on": "Turuncu Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_orange_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_orange_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_panel": "Işıklı Panel",
+  "block.simplylight.illuminant_panel.info": "Basit LED panel ışığı,",
+  "block.simplylight.illuminant_panel.info2": "Herhangi bir yöne yerleştirilebilir.",
+
+  "block.simplylight.illuminant_pink_block": "Pembe Işık Bloğu",
+  "block.simplylight.illuminant_pink_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_pink_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_pink_block_on": "Pembe Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_pink_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_pink_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_purple_block": "Mor Işık Bloğu",
+  "block.simplylight.illuminant_purple_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_purple_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_purple_block_on": "Mor Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_purple_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_purple_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_red_block": "Kırmızı Işık Bloğu",
+  "block.simplylight.illuminant_red_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_red_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_red_block_on": "Kırmızı Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_red_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_red_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.illuminant_slab": "Işıklı Basamak",
+  "block.simplylight.illuminant_slab.info": "Basit yarım basamak ışığı,",
+  "block.simplylight.illuminant_slab.info2": "Herhangi bir yöne yerleştirilebilir.",
+
+  "block.simplylight.illuminant_yellow_block": "Sarı Işık Bloğu",
+  "block.simplylight.illuminant_yellow_block.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_yellow_block.info2": "%s ile aktif olur.",
+
+  "block.simplylight.illuminant_yellow_block_on": "Sarı Işık Bloğu (Ters Çevrilmiş)",
+  "block.simplylight.illuminant_yellow_block_on.info": "Basit ışık bloğu,",
+  "block.simplylight.illuminant_yellow_block_on.info2": "%s ile devre dışı kalır.",
+
+  "block.simplylight.lamp_post": "Işıklı Sütun",
+  "block.simplylight.lamp_post.info": "3 Blok yüksekliğinde lamba direği.",
+  "block.simplylight.lamp_post.info2": "En üstteki blok ışık yayar.",
+
+  "block.simplylight.lightbulb": "Basit Ampul",
+  "block.simplylight.lightbulb.info": "Sadece basit bir ampul,",
+  "block.simplylight.lightbulb.info2": "herhangi bir yöne yerleştirilebilir.",
+
+  "block.simplylight.rodlamp": "Işıklı Çubuk",
+  "block.simplylight.rodlamp.info": "Basit bir ışık çubuğu.",
+  "block.simplylight.rodlamp.info2": "Herhangi bir yöne yerleştirilebilir.",
+
+  "block.simplylight.wall_lamp": "Işıklı Armatür",
+  "block.simplylight.wall_lamp.info": "Duvarlara asılır veya tavan ve zeminlere yapışır.",
+
+  "itemGroup.simplylight": "Simply Light",
+  "simplylight.key.shift": "Shift",
+  "simplylight.redstone": "Kızıltaş",
+  "simplylight.shift": "Bilgi için <%s> tuşuna basın."
+}
