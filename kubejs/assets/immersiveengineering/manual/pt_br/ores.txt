@@ -1,0 +1,12 @@
+Minérios
+Cave Cave, Um Buraco
+<&alu>O §lMinério de Bauxita§r é encontrado no mundo entre as camadas <config;i;ores.bauxite.min_y> e <config;i;ores.bauxite.max_y>, e exige uma Picareta de Pedra para extrair.
+O minério bruto funde em lingotes de alumínio, parte integral da arquitetura de alta tensão.
+<&lead>O §lMinério de Chumbo§r é encontrado no mundo entre as camadas <config;i;ores.lead.min_y> e <config;i;ores.lead.max_y>, e exige uma Picareta de Ferro para extrair.
+O minério bruto funde em lingotes de chumbo, usados na criação dos primeiros acumuladores.
+<&silver>O §lMinério de Prata§r é encontrado no mundo entre as camadas <config;i;ores.silver.min_y> e <config;i;ores.silver.max_y>, e exige uma Picareta de Ferro para extrair.
+O minério bruto funde em lingotes de prata, que formam liga com ouro para criar electrum, um condutor bem mais eficaz.
+<&nickel>O §lMinério de Níquel§r é encontrado no mundo entre as camadas <config;i;ores.nickel.min_y> e <config;i;ores.nickel.max_y>, mas com mais abundância abaixo de <config;i;ores.deep_nickel.max_y>. Exige uma Picareta de Ferro para extrair.
+O minério bruto funde em lingotes de níquel, que formam liga com cobre para criar constantan, um condutor resistente ao calor usado na construção de <link;thermoelectric;Geradores Termoelétricos;start>.
+<&uranium>O §lMinério de Urânio§r é encontrado no mundo entre as camadas <config;i;ores.uranium.min_y> e <config;i;ores.uranium.max_y>, e exige uma Picareta de Ferro para extrair.
+O minério bruto funde em lingotes de urânio, mas atualmente não há muitos usos para o metal. Um bloco de urânio pode servir como fonte de calor para o <link;thermoelectric;Gerador Termoelétrico;start> e o metal será usado em projetos futuros.

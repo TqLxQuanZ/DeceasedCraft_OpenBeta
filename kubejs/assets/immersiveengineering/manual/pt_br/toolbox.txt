@@ -1,0 +1,4 @@
+Caixa de Ferramentas de Engenheiro
+A Bolsa do Engenheiro
+A caixa de ferramentas é um recipiente simples e portátil, usado para guardar todos os essenciais de um engenheiro! Passar o mouse sobre os espaços relevantes informa o que eles aceitam.
+'Comida' e 'Qualquer coisa' são autoexplicativos; os espaços de 'Fiação' são para bobinas, conectores e itens semelhantes, e 'Ferramentas' armazena qualquer ferramenta IE assim como picaretas, pás e machados! Agachar e clicar com o botão direito permite colocar a caixa como bloco. Enquanto colocada, seu inventário ainda pode ser acessado com um clique direito. Agachar e clicar novamente recolhe a caixa.

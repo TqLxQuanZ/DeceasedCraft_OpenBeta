@@ -1,0 +1,7 @@
+Para-raios
+Atingido!
+O raio é um fenômeno da natureza. Ele contém uma enorme quantidade de energia bruta, e este para-raios consegue aproveitar essa energia.
+Empilhando muitas cercas de aço neste multibloco, você aumenta a chance de um raio atingi-lo durante chuva ou tempestades.
+Quando o poste de aço é atingido, a enorme quantidade de energia criada é armazenada na base do para-raios e depois distribuída lentamente às conexões de energia nas laterais.
+
+Você pode melhorar as chances do Para-raios ser atingido criando uma "rede" de cercas de aço conectadas à cerca mais alta.

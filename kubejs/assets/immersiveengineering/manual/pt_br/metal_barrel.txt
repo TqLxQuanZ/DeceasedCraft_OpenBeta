@@ -1,0 +1,3 @@
+Barril de Metal
+Não rola
+Barris de metal funcionam exatamente como os <link;barrel;Barris de Madeira;>. Armazenam a mesma quantidade de fluido e suas entradas e saídas são configuradas da mesma forma, mas ao contrário da versão de madeira, estes podem armazenar gases e fluidos quentes e não emitem automaticamente quando desativados por um sinal de redstone.

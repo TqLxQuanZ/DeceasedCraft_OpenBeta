@@ -1,0 +1,7 @@
+Iluminação de Engenheiro
+Iluminando o Deserto
+<&lantern>Nas profundezas dos corredores das fábricas, pode ficar bem escuro. Para ainda conseguir se localizar entre as máquinas, você provavelmente deve iluminar o lugar com algumas Luminárias. Essas Luminárias oferecem quase tanta luz quanto um bloco de pedra luminosa.
+<&electric_lantern>Luminárias Elétricas são um dos primeiros usos já inventados para energia elétrica. Para fazê-las funcionar, você precisa conectá-las diretamente à sua rede de energia usando fios. Elas permitem que a energia seja transferida através delas, então você pode conectá-las em série.
+Usar o Martelo de Engenheiro nelas as vira de cabeça para baixo. Enquanto forem abastecidas com um pouco de energia, elas iluminam a área ao redor como uma Luminária comum, mas adicionalmente também impedem o surgimento de mobs hostis num raio de 32 blocos!<np>
+<&floodlight>Holofotes são fontes de luz potentes. Embora exijam mais energia que uma simples Luminária Elétrica, eles criam um cone de luz de até 32 blocos de comprimento. Use o Martelo de Engenheiro nas faces superior ou inferior do bloco para girar a luz, ou clique nas laterais para mudar sua inclinação.
+Geralmente, Holofotes exigem um sinal de redstone para funcionar, porém seu comportamento de controle pode ser invertido clicando na base com a Chave de Fenda de Engenheiro.

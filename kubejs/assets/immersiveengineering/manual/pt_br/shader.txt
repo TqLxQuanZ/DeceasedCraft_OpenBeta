@@ -1,0 +1,8 @@
+Shaders
+Azul! Não, amarelo!
+Shaders são itens que você pode encontrar no mundo ou adquirir trocando com aldeões. Eles não têm propósito por si só, mas podem ser equipados em <link;revolver;Revólveres>, <link;mining_drill;Furadeiras>, <link;chemthrower;Lançadores Químicos>, <link;shield;Escudo Revestido> ou <link;railgun;Canhões Eletromagnéticos> (e possivelmente outras coisas que você ainda precisa descobrir) para mudar o visual do item. Basta colocar o item numa <link;workbench;Bancada de Engenheiro> e equipar o shader no espaço apropriado.
+Você também pode aplicá-los a um Carrinho de Mina, um Estandarte ou um <link;balloon;Balão> clicando com o botão direito!
+
+Para uma lista completa de todos os shaders disponíveis, seus visuais, referências e mais detalhes, <link;shader_list;confira aqui><np>
+<&grab_bag>Pacotes Surpresa de Shaders são itens contendo um shader aleatório. Podem ser encontrados em caixotes, obtidos de aldeões ou dropados por chefes. A raridade do shader contido é igual ou superior à raridade do pacote. Ao usar um pacote, é mais provável obter um shader que você ainda não tem do que um que você já possui.
+Pacotes de shaders podem ser fabricados em dois pacotes de nível inferior. Isso diminui suas chances de obter shaders mais raros, mas fornece mais tentativas.

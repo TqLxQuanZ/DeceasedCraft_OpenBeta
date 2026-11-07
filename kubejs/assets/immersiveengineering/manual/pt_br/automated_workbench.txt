@@ -1,0 +1,7 @@
+Bancada Automatizada
+Para quem não sabe dirigir manual
+<&multiblock>A Bancada Automatizada é um dos primeiros grandes sucessos da engenharia em pequena escala.
+A máquina consegue seguir um conjunto de instruções descritas por um <link;blueprints;Projeto;start> para montar os itens nele detalhados.<np>
+Ao montar o multibloco, um Projeto pode ser colocado em sua mesa de desenho. Depois de selecionar o item a ser criado, ela começa o processo de montagem. Para funcionar, a máquina precisa ser abastecida com materiais e energia.<br>
+As entradas de itens são as duas aberturas marcadas com pontos azuis; a entrada de energia fica acima delas. Os itens prontos saem no final da esteira.<br>
+Aplicar um sinal de redstone ao painel de controle abaixo da mesa de desenho interrompe o processo da máquina; esse comportamento pode ser invertido com a Chave de Fenda de Engenheiro.

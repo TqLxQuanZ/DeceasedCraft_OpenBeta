@@ -1,0 +1,3 @@
+Projetos de Engenheiro
+De volta à prancheta
+Esta página apresenta todos os Projetos de Engenheiro que podem ser fabricados por meios normais. Outros Projetos podem precisar ser obtidos de aldeões ou encontrados no mundo. Todos podem ser usados numa <link;workbench;Bancada de Engenheiro> para fabricar os itens que descrevem.

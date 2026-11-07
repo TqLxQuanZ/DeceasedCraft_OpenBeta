@@ -1,0 +1,19 @@
+Fiação Básica
+Bzzzt!
+A rede de energia do Immersive Engineering tem quatro blocos importantes: §lconectores§r como entradas e saídas da rede, §lrelés§r para conectar fios entre si e §ltransformadores§r para alternar entre diferentes níveis de fio.<np>
+<&wire_recipes>Para conectar dois blocos, basta clicar no primeiro com uma bobina de fio e depois usar a mesma bobina no segundo bloco. A taxa total de transferência entre dois pontos depende do tipo de fio mais fraco entre eles.
+<&images>Note que restrições se aplicam conforme os blocos: conectores e relés só aceitam fios do mesmo tipo já conectado, transformadores só aceitam dois fios de tipos diferentes, e fios só conectam a blocos de tensão compatível. Há dois valores importantes sobre fiação:
+Cada conector tem um valor de entrada (§o<config;iA;machines.wireConnectorInput>§r) e cada fio tem uma taxa máxima de transferência (§o<config;iA;wires.wireTransferRate;l3>§r).
+O conector limita quanta energia pode entrar e sair, mas múltiplos conectores podem §ose unificar§r num único fio, permitindo combinar a transferência em distâncias maiores. Note, porém, que a §otaxa máxima de transferência do fio não deve ser excedida, ou o fio §oqueimará§r.<br>
+Os fios transferem energia mesmo por §ochunks descarregados§r, desde que os chunks de entrada e saída estejam carregados.<br>
+Fios não isolados conectados a uma fonte de energia causam dano a jogadores e mobs muito próximos. Fios isolados estão disponíveis para baixa e média tensão.<br>
+Agachar ao usar a função "Pegar Bloco" num conector pega o fio conectado do seu inventário.<br>
+Conexões de fio se rompem se um bloco que obstrui o fio for colocado.<np>
+<&connector_recipes>§lConectores§r servem como entradas e saídas da rede de energia. Você pode colocá-los em acumuladores ou outros manipuladores de Flux e eles transferem energia pelos fios conectados. §lRelés§r não têm entrada nem saída; servem como pontos de conexão entre fios.<np>
+<&transformer_recipes>§lTransformadores§r permitem transitar entre diferentes tipos de fio. O fio mais fraco restringe a taxa de transferência. Note que Transformadores HV podem reduzir para LV ou MV, então você não precisa encadear dois transformadores.
+Você pode acoplar <link;this;transformadores a postes de madeira;images+1> como mostrado na segunda imagem da página 4, porém apenas transformadores não-HV podem ser colocados assim.<np>
+<&wirecutter_recipe>O §lAlicate de Corte§r serve para remover todos os fios conectados a um bloco simplesmente clicando nele com o botão direito.<np>
+<&voltmeter_recipe>O §lMultímetro§r serve para medir conexões. Apontá-lo a qualquer armazenamento de energia ou clicar com o botão direito lê seu armazenamento atual. Agachar + clicar em dois conectores calcula a perda média entre eles.
+Também pode ser usado para ler níveis de redstone.<np>
+<&feedthrough>Os Isoladores Passantes permitem conectar a fiação de um lado de uma parede à fiação do outro lado sem fazer um buraco. Podem ser criados com qualquer bloco sólido "normal" no meio, clicando com o botão direito em qualquer um dos dois conectores com o Martelo de Engenheiro.
+Todos os tipos comuns de conectores (energia e redstone) podem ser usados para criar isoladores passantes do tipo de fio correspondente.

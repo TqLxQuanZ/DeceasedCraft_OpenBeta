@@ -1,0 +1,7 @@
+Planador Retrátil
+Navegando pelos céus
+<&recipe>§oOs aldeões contam histórias de cidades no céu, guardadas por dragões, onde aventureiros corajosos podem adquirir asas mágicas que os permitem planar pelo ar.§r
+<br>Bobagem, claro — mas o conceito intriga a mente do engenheiro. O §2Planador Retrátil§r é um dispositivo que oferece exatamente essas liberdades, permitindo navegar pelos céus.
+<br>Ele cumpre as mesmas funções da "Élitro" de que os aldeões falavam, mas vem com algumas desvantagens: tem menor durabilidade e não possui nenhum potencial mágico para encantamentos.
+Sua construção leve de cânhamo e alumínio também o faz sofrer em altas velocidades, tomando dano maior quando usado em mergulhos ou acelerado por fogos de artifício.
+Seus materiais são fáceis de adquirir, porém, e ele pode ser reparado facilmente com um pouco de tecido de cânhamo... desde que não se quebre completamente durante um mergulho em alta velocidade.

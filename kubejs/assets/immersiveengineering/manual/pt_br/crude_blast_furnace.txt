@@ -1,0 +1,6 @@
+Alto-Forno Rústico
+Aço Simples
+<&block>O Alto-Forno Rústico é usado para aumentar o teor de carbono do ferro, transformando-o em §2aço§r. Para isso, só combustíveis puros de alto carbono podem ser usados no forno, especificamente <link;cokeoven;coque de carvão e carvão vegetal>.
+<&outputs>Junto com o aço, o forno também produz §2escória§r, que você deve remover ou o forno deixará de funcionar. Embora seja tecnicamente um resíduo, há várias formas de <link;slag;reciclá-la>.<np>
+<&multiblock>Para formar um Alto-Forno, arranje 27 desses blocos num cubo 3x3x3 e clique com o botão direito num dos blocos centrais laterais usando o Martelo de Engenheiro.
+O Alto-Forno Rústico §lnão§r é automatizável. Todas as entradas e saídas devem ser arranjadas manualmente em sua GUI. Se você quiser automatizar a criação de aço, provavelmente deve investir num <link;improved_blast_furnace;Alto-Forno Aprimorado;>.

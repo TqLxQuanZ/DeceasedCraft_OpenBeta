@@ -1,0 +1,8 @@
+Gerador a Diesel
+Melhor que volume: mais volume.
+A arquitetura de alta tensão pode ser fascinante, mas não é muito útil a menos que você tenha um gerador que realmente produza a potência necessária para ela.
+O Gerador a Diesel é uma das poucas formas de gerar esse tipo de energia. É criado como uma estrutura multibloco complexa e funciona com <link;refinery;Biodiesel;diesel> ou outros tipos de combustível inflamável. Devido à alta potência, ele consome combustível muito rápido, então certifique-se de ter produção de combustível suficiente para mantê-lo.
+<&structure>A estrutura é construída de blocos de Engenharia, de Gerador e de Radiador, além de Tubos de Fluido e Andaime. Arranje-os na forma mostrada acima e clique com o botão direito no gerador central usando o Martelo de Engenheiro.
+O combustível entra pelos cantos inferiores do gerador, enquanto a energia sai por até três conexões no topo. Os <config;i;machines.dieselGen_output>Flux/t que o gerador produz são divididos entre todos os pontos conectados. O gerador só funciona quando pelo menos uma saída pode aceitar energia.
+O pequeno terminal na lateral desliga o gerador se receber um sinal de redstone; esse comportamento pode ser invertido com a Chave de Fenda de Engenheiro.<br>
+A seguir, uma lista dos combustíveis que o gerador aceita e por quanto tempo um balde cheio o alimenta: <&list>

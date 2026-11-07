@@ -1,0 +1,6 @@
+Misturadora
+Cubas de Massa de Biscoito!
+A Misturadora é uma estrutura multibloco que dissolve sólidos em fluidos, misturando-os. A estrutura é montada como mostrado acima e formada usando o Martelo de Engenheiro no bloco de chapa metálica central.<np>
+Os usos mais comuns desta máquina são misturar <link;concrete;Concreto Líquido;liquid> ou criar poções a partir de água e seus vários ingredientes.<br>
+Os fluidos entram na misturadora pela porta na base de sua fonte de energia. Os itens entram pelas duas aberturas na traseira. A porta de fluido na frente serve como saída de fluido.<br>
+Aplicar um sinal de redstone ao painel de controle frontal interrompe o processo da máquina; esse comportamento pode ser invertido com a Chave de Fenda de Engenheiro.

@@ -1,0 +1,9 @@
+Construções de Metal
+Rebitando
+<&storage_and_sheetmetal_recipes>Além da Madeira Tratada, metais processados formam blocos de construção comuns. Você pode fabricar quase qualquer metal em blocos e lajes, ou martelar lingotes de ferro num bloco de chapa metálica.<np>
+<&architecture_recipes>O aço não é só parte integral das arquiteturas de alta tensão; também é bem útil em, bem, arquitetura. Andaimes de aço podem ser usados para criar rapidamente estruturas escaláveis, cercas de aço afastam os malvados e braços estruturais são ótimos pontos de fixação para seus relés HV.<np>
+<&connector_recipes>Os Conectores Estruturais funcionam como conectores normais, mas em vez de transferir energia, são puramente decorativos.
+Não aceitam fios comuns, mas aceitam Corda de Cânhamo e Cabo de Aço (as outras receitas desta página).
+Você também pode girá-los clicando com o botão direito usando o Martelo de Engenheiro.<np>
+<&ladder_recipes>Escadas de metal são... bem, escadas feitas de metal. Você pode subir nelas, e elas têm um visual legal.
+Você também pode combiná-las com Andaime para transformá-las em Escadas Cobertas.

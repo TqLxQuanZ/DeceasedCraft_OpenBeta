@@ -1,0 +1,5 @@
+Eletroímã
+Atraente não naturalmente
+<&recipe>Um Eletroímã é simplesmente uma grande bobina de fio enrolada em um núcleo ferromagnético que cria um campo magnético quando alimentado com corrente elétrica.
+Esse campo atrai itens próximos ao ímã, tornando-o ideal para coletar os espólios de uma fazenda (de mobs).<br>
+O ímã funciona continuamente enquanto é alimentado com energia, mas pode ser desativado com um sinal de redstone. Esse comportamento pode ser invertido agachando e clicando com o botão direito usando a Chave de Fenda de Engenheiro.

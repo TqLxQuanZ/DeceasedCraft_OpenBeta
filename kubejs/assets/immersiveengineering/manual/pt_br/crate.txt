@@ -1,0 +1,7 @@
+Caixote de Armazenamento de Madeira
+Mova esse equipamento!
+<&normal>Caixotes de armazenamento de madeira são blocos bem parecidos com um baú. Fabricados com madeira tratada, oferecem 27 espaços de armazenamento e, quando quebrados, mantêm o conteúdo, permitindo movê-los junto com seus itens.
+Como os baús, emitem sinal de comparador baseado na quantidade de itens armazenados.
+
+<&reinforced>O caixote de armazenamento reforçado oferece a mesma capacidade de um caixote comum, mas ao contrário deles, é imune a explosões. Creepers chatos ou cargas de mineração mal posicionadas não destruirão mais seus valores!
+A receita de melhoria mantém o conteúdo do caixote.

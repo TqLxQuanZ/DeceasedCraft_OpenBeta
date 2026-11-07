@@ -1,0 +1,8 @@
+Gancho Aéreo de Engenheiro
+Booker, pega!
+O Gancho Aéreo de Engenheiro é um sistema motorizado de agarramento projetado para se prender a fios, cordas de cânhamo ou cabos de aço.
+Com ele, engenheiros podem atravessar rapidamente uma linha de energia para se mover entre subestações ou outras instalações. Basta segurar o botão direito do mouse enquanto estiver perto de um fio para se prender a ele.
+O botão pode ser solto enquanto você desliza pelo fio, mas soltar o gancho aéreo ou agachar fará você desmontar.
+
+A gravidade é suficiente para se mover por fios descendentes numa velocidade razoável; as teclas de movimento normais podem ser usadas para avançar por fios ascendentes.
+Quando o gancho aéreo chega a um cruzamento, ele continua na direção mais próxima possível de onde o jogador está olhando.

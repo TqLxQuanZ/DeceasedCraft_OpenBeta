@@ -1,0 +1,12 @@
+Tijolos Clínquer
+Casas de Vidro e Pedras
+<&smoker_recipe>
+A arte de assar tijolos evoluiu além de desperdiçar várias partes do lote produzindo clínquer por ficar perto demais do fogo.
+
+Quem quiser recriar o visual icônico das fachadas de tijolo clínquer pode, no entanto, aquecer tijolos no §2Defumador§r para vitrificar e carbonizar os tijolos externos, transformando-os em §2Tijolos Clínquer§r.
+<&variants>
+Para complementar o visual das fachadas feitas com eles, os tijolos clínquer podem ser combinados com terracota para produzir várias variantes decorativas de fachada: §2Cantoneiras de Tijolo Clínquer§r e §2Soleiras§r.
+<&cut_variants>
+Tijolos Clínquer também podem ser transformados em escadas, lajes e muros.
+
+§2Muros de Tijolo Clínquer§r têm uma pequena soleira de tijolo assado na camada superior.

@@ -1,0 +1,14 @@
+Torres Automáticas
+Ainda está aí?
+As Torres Automáticas são o próximo passo na defesa automatizada da sua fábrica. Elas trazem um sistema óptico complexo combinado a um "cérebro" eletrônico para distinguir e adquirir alvos com eficácia e usar o armamento embutido para neutralizá-los.
+Todas as torres têm portas de energia na base e requerem um sinal de redstone para ficarem ativas, embora esse comportamento possa ser invertido agachando e clicando com a Chave de Fenda de Engenheiro.<np>
+Ao serem colocadas, as Torres memorizam seu dono e não permitem que outros usuários as quebrem ou modifiquem. Clicar com o botão direito na torre abre a GUI, que traz uma lista de nomes com campo de entrada, além de várias opções de alvo.
+Por padrão, a lista é uma lista negra de alvos que não podem ser atacados. Essa lista usa nomes de criaturas, então colocar animais na lista branca é possível.<np>
+<&turret_chemthrower_recipe>A Torre de Lançador Químico utiliza a capacidade de propulsão de fluidos da <link;chemthrower;ferramenta homônima;start> para cobrir alvos com qualquer coisa, de água para apagar chamas a óleo diesel para iniciá-las.<np>
+Esta Torre tem uma porta de fluido na base e na traseira para permitir a conexão de canos. Além disso, a GUI tem um botão à esquerda que ativa ou desativa a chama piloto, acendendo o fluido dispensado, desde que seja inflamável.
+
+§oOs fornecedores deste projeto não se responsabilizam por danos ao usuário, vizinhos ou diversos animais de fazenda que possam ocorrer.§r<np>
+<&turret_gun_recipe>A Torre de Arma traz uma versão fortemente modificada dos mecanismos internos do <link;revolver;Revólver;start> numa carcaça muito maior e mais imponente. A construção também envolve um carregador estendido para maior armazenamento interno de munição.<np>
+Uma porta para inserção automática de munição e extração de cápsulas usadas fica na traseira e na base da estrutura. Esta Torre pode armazenar até uma pilha completa de cartuchos, e a GUI tem um botão para alternar a expulsão automática das cápsulas usadas.
+
+§oNote que certas munições podem causar dano colateral ao usuário ou à sua propriedade.§r

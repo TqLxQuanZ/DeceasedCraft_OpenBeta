@@ -1,0 +1,5 @@
+Estação de Carga
+Carregue seus óculos!
+<&recipe>A Estação de Carga é um dispositivo que permite carregar ferramentas e outros itens.
+A energia entra pela base ou pela traseira, e os itens podem ser colocados manualmente ou inseridos automaticamente.<np>
+Os tubos de elétrons na frente dão retorno sobre a carga atual do item, mas o bloco também emite um sinal de comparador para o mesmo fim.

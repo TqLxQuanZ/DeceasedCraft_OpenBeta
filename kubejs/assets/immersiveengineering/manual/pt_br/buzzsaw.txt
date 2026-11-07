@@ -1,0 +1,12 @@
+Serra Circular
+Nós Não Vamos a Ravenholm
+<&recipes>Esta serra circular portátil foi projetada para dar cabo rápido de árvores e outras folhagens que possam atrapalhar uma fábrica imaculada.
+Depois de usar a <link;workbench;Bancada de Engenheiro;start> para instalar uma serra nela e abastecê-la com <link;refinery;Biodiesel;diesel> ou outro combustível, ela pode ser usada para cortar de pequenas bétulas a grandes árvores da selva.
+
+Como algumas outras ferramentas, a serra circular pode ser modificada na <link;workbench;Bancada de Engenheiro>. Essas melhorias afetam o tamanho do tanque interno e a durabilidade da lâmina.
+<np>
+<&rockcutter_recipe>Substituindo a lâmina comum por uma §2Lâmina Corta-Pedra§r, a serra circular pode ser usada para cortar limpamente cubos de pedra do chão, muito parecido com o encantamento §2Toque Suave§r. Porém, a lâmina com ponta de diamante não serve mais para cortar madeira ou derrubar árvores.<np>
+<&grinding_recipe>O §2Disco de Moagem§r é feito de grãos finos de alumínio suspensos em <link;plastic;Resina Fenólica>. Embora menos duráveis, esses discos são excelentes para cortar blocos de metal rapidamente, mas quebram fácil em outros materiais. Além disso, podem ser usados para raspar oxidação ou cera de blocos de cobre ou para descascar troncos, como um §2machado§r faz.<np>
+<&tank_recipe>O §2Tanque Grande§r aumenta a capacidade de fluido da serra em 2000 mb.<np>
+<&lube_recipe>O §2Sistema de Lubrificação Avançado§r aplica lubrificante extra à lâmina, reduzindo a velocidade com que ela perde durabilidade.<np>
+<&quiver_recipe>Acoplando a §2Aljava de Lâminas§r na lateral da serra, você pode carregar duas lâminas adicionais. Você pode alternar entre as lâminas guardadas <config;b;tools.chemthrower.scroll;agachando e usando a roda do mouse, ou por meio de;usando> o atalho §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r se ele estiver configurado nas opções.

@@ -1,0 +1,13 @@
+Enxofre e Nitrato
+Explosões & Crescimento
+§lPó de Enxofre§r é um pó encontrado em certos minérios e comumente em <link;minerals;Depósitos de Minério>. Pode ser encontrado ocasionalmente <link;crusher;triturando> §2Lápis-Lazúli§r ou §2Minério de Carvão§r e mais comumente em §2Minério de Quartzo do Nether§r. Também pode ser extraído de §2Varas de Blaze§r.
+
+§lPó de Nitrato§r (também conhecido como salitre) é uma mistura de sais alcalinos encontrada ao processar §2Arenito§r num <link;crusher;Triturador>.
+<&fertilizer>
+Enxofre, escória e nitrato por si só são um pequeno impulso ao crescimento de plantações na <link;garden_cloche;Estufa>, mas não bastam para ser usados diretamente nas plantações.
+
+§2Fertilizante Industrial§r dará um grande impulso à estufa e é feito dos três nutrientes acima mais água para misturá-los com eficácia.
+<&gunpowder>
+Misturar Nitrato, Enxofre e Carvão Vegetal permite criar pólvora, um processo muito mais industrial e consistente do que saqueá-la de monstros.
+
+A pólvora também pode ser transformada em Barris de Pólvora, uma alternativa mais estável ao TNT.

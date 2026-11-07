@@ -1,0 +1,6 @@
+Interruptor de Circuito
+Liga - Desliga
+<&manual_breaker>Interruptores de Circuito são simplesmente interruptores que podem cortar o fluxo de energia através dos fios. Conectam dois fios do mesmo tipo e só permitem a passagem de energia quando ativados. Podem ser usados para separar máquinas que consomem muita energia da rede ou para acoplar um conjunto extra de geradores quando necessário! Devido ao alto risco, esses interruptores não aceitam fios HV.
+Eles também emitem um sinal de redstone quando ligados; esse comportamento pode ser invertido clicando no interruptor com a Chave de Fenda de Engenheiro.
+Além disso, são uma excelente forma de controlar suas <link;lighting;luzes elétricas;electric_lantern>!<np>
+<&rs_breaker>O Interruptor de Redstone é semelhante a um interruptor comum, mas não pode ser operado manualmente. Em vez disso, requer um sinal de redstone para interromper a conexão. Em troca, este dispositivo é isolado o suficiente para permitir também a conexão de fios HV!

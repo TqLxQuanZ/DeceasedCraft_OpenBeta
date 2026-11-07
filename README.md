@@ -1,3 +1,3 @@
-added the french traduction
+Updated pt_br Localizations
 
-"fr_fr.json"
+"pt_br.json"

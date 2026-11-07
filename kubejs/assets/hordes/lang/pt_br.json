@@ -1,37 +1,29 @@
 {
-	
-	"message.hordes.EventStart": "Você ouve os uivos de uma horda próxima",
-    "message.hordes.EventEnd": "O ar está quieto, a horda parou",
-    "message.hordes.TrySleep": "Um sentimento de pavor iminente impede você de dormir",
-    "message.hordes.title": "As hordas",
-    
-    "hordes.subtitle.hordeHowls": "Uivos de Zumbi",
-    "hordes.subtitle.infected": "Jogador infectado",
-    "hordes.subtitle.immune": "Infecção de jogador bloqueada",
-
-    "entity.hordes.ZombiePlayer.chat": "Zumbi de %1$s",
-    "entity.hordes.DrownedPlayer.chat": "%1$s Afogado",
-    "entity.hordes.HuskPlayer.chat": "Zumbi-múmia de %1$s",
-    
-    "entity.hordes.ZombiePlayer.name": "Jogador Zumbi",
-    "entity.hordes.DrownedPlayer.name": "Jogador Afogado",
-    "entity.hordes.HuskPlayer.name": "Jogador Zumbi-múmia",
-    
-    "entity.hordes.ZombifiedPiglinBrute.name": "Piglin Bruto Zumbificado",
-    "entity.hordes.ZombieWanderingTrader.name": "Vendedor Ambulante Zumbi",
-    "entity.hordes.ZombiePillager.name": "Saqueador Zumbi",
-    "entity.hordes.ZombieVindicator.name": "Vingador Zumbi",
-    "entity.hordes.ZombieEvoker.name": "Invocador Zumbi",
-    "entity.hordes.ZombieIllusioner.name": "Ilusionista Zumbi",
-    "entity.hordes.ZombieWitch.name": "Bruxa Zumbi",
-
-    "effect.hordes.infected": "Infecção",
-    "effect.hordes.immunity": "Imunidade à infecção",
-    "death.attack.infection": "%1$s sucumbiu à infecção.",
-    "death.attack.infection.zombified": "%1$s foi zumbificado.",
-
-    "tooltip.hordes.cure": "Cura infecção",
-    "tooltip.hordes.wearableProtection": "%1$s de proteção contra infecção",
-
-    "jei.category.hordes.InfectionCures": "Curas de Infecção"
+  "message.hordes.EventStart": "Você ouve os uivos de uma horda próxima",
+  "message.hordes.EventEnd": "O ar está quieto, a horda parou",
+  "message.hordes.TrySleep": "Uma sensação de pavor iminente impede você de dormir",
+  "message.hordes.title": "As Hordas",
+  "hordes.subtitle.hordeHowls": "Uivos de Zumbis",
+  "hordes.subtitle.infected": "Jogador Infectado",
+  "hordes.subtitle.immune": "Infecção do Jogador Bloqueada",
+  "entity.hordes.ZombiePlayer.chat": "Zumbi de %1$s",
+  "entity.hordes.DrownedPlayer.chat": "%1$s Afogado",
+  "entity.hordes.HuskPlayer.chat": "Cascoso de %1$s",
+  "entity.hordes.ZombiePlayer.name": "Zumbi de Jogador",
+  "entity.hordes.DrownedPlayer.name": "Jogador Afogado",
+  "entity.hordes.HuskPlayer.name": "Cascoso de Jogador",
+  "entity.hordes.ZombifiedPiglinBrute.name": "Piglin-Zumbificado Bárbaro",
+  "entity.hordes.ZombieWanderingTrader.name": "Mercador Ambulante Zumbi",
+  "entity.hordes.ZombiePillager.name": "Saqueador Zumbi",
+  "entity.hordes.ZombieVindicator.name": "Vindicador Zumbi",
+  "entity.hordes.ZombieEvoker.name": "Evocador Zumbi",
+  "entity.hordes.ZombieIllusioner.name": "Ilusionista Zumbi",
+  "entity.hordes.ZombieWitch.name": "Bruxa Zumbi",
+  "effect.hordes.infected": "Infecção",
+  "effect.hordes.immunity": "Imunidade à Infecção",
+  "death.attack.infection": "%1$s sucumbiu à infecção.",
+  "death.attack.infection.zombified": "%1$s virou zumbi.",
+  "tooltip.hordes.cure": "Cura infecção",
+  "tooltip.hordes.wearableProtection": "%1$s de proteção contra infecção",
+  "jei.category.hordes.InfectionCures": "Curas de Infecção"
 }

@@ -1,0 +1,9 @@
+Roteador de Itens
+Pé esquerdo amarelo, mão direita verde
+<&recipe>O Roteador de Itens é um bloco que aceita e redistribui itens por caminhos filtrados. Coloque-o e clique com o botão direito para abrir a interface, que mostra seis filtros coordenados por cor e direção.<np>
+Quando um item entra no roteador, ele é roteado para uma saída cujo filtro combine com o item ou, se nenhum filtro combinar, para uma saída sem filtro. Se o roteador não puder rotear o item, ele não permite que o item entre.
+Os itens também não podem sair pelo lado por onde entraram.<np>
+Os botões acima de cada filtro podem ser usados para ajustar ainda mais como o filtro funciona:
+§2Filtragem por tag§r permite itens pelo filtro se suas tags combinarem com as do item especificado. Isso pode ser usado para filtrar lingotes do mesmo metal adicionados por mods diferentes.
+A opção §2Filtro NBT§r permite respeitar dados adicionais do item, como encantamentos.
+A opção §2Filtro de Dano§r permite ao filtro ignorar o valor de dano de uma ferramenta ou arma.

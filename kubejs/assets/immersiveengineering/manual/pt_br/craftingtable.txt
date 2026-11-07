@@ -1,0 +1,4 @@
+Bancada de Trabalho de Engenheiro
+Para projetos diversos
+A Bancada de Trabalho de Engenheiro é uma melhoria simples da Bancada de Trabalho comum. Além da superfície de madeira tratada e polida, ela mantém os ingredientes dentro da grade de fabricação quando a interface é fechada.
+Também possui uma pequena gaveta para guardar alguns de seus componentes de fabricação.

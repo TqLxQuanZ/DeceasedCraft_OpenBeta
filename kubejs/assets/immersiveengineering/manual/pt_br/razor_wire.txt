@@ -1,0 +1,4 @@
+Arame Navalhado
+Fatiador de Ovos Gigante
+<&recipe>O Arame Navalhado é um arame com pedaços afiados de metal presos. Ele desacelera e corta qualquer entidade que tente atravessá-lo.
+O Arame Navalhado só pode ser removido com um Alicate de Corte; qualquer outra tentativa causará dano ao jogador. Além disso, um fio LV pode ser conectado para eletrificar o arame navalhado e causar dano extra.

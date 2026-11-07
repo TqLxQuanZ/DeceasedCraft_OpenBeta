@@ -1,0 +1,6 @@
+Escudo Pesado Revestido
+Falange de Um Homem Só
+<&recipe>O Escudo Pesado Revestido é uma melhoria direta dos escudos de madeira comuns que você talvez conheça. De forma semelhante, este escudo bloqueia a maioria do dano recebido pela frente, mas sua durabilidade foi aumentada consideravelmente e ele pode ser melhorado.<np>
+<&flashbulb>A melhoria §2Lâmpada de Flash§r adiciona uma lâmpada brilhante e uma tela refletora ao escudo. Ao ser atacado, o dispositivo produz um clarão ofuscante, desorientando todos à frente do usuário.<np>
+<&electric>Adicionar §2Emissores de Choque§r ao escudo permite retaliar contra inimigos que atacam. Quando o escudo é golpeado, ele emite um choque, infligindo dano menor ao agressor. Além disso, ele vaporiza projéteis em vez de apenas bloqueá-los.<np>
+<&magnetic>A §2Luva Magnética§r serve como forma fácil de acessar o escudo quando ameaçado. Com esta melhoria equipada, basta pressionar duas vezes a tecla §l<keybind;key.immersiveengineering.magnetEquip>§r para recuperar o escudo do inventário e colocá-lo na mão secundária.

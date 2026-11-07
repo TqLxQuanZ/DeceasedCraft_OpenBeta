@@ -1,0 +1,3 @@
+Ligas Metálicas
+Artes de Metal Misto
+Misturar pós cria uma mistura de liga que pode então ser fundida em lingotes de liga. O constantan tem propriedades termoelétricas e é usado na criação do <link;generator;gerador termoelétrico>, e o electrum é um excelente condutor elétrico usado em <link;wiring;arquitetura de média tensão>.

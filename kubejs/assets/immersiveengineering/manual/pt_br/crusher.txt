@@ -1,0 +1,6 @@
+Triturador
+Tire as Mãos!
+Triturar um minério é uma forma eficaz de aumentar seu rendimento, pois cada minério gera dois pós que você pode fundir. Este triturador industrial é uma forma rápida de fazer isso. A velocidade de processamento da máquina depende da energia fornecida a ela.
+Aplicar um sinal de redstone ao painel de controle na frente interrompe o processo do triturador; esse comportamento pode ser invertido com a Chave de Fenda de Engenheiro.
+A estrutura é formada clicando com o botão direito no bloco central da frente usando o Martelo de Engenheiro. A frente é o lado largo da estrutura, que tem um bloco de engenharia leve na base.
+Porém, ele não serve só para triturar minérios. Todo ser vivo que cair na máquina sofrerá dano grave, e o triturador produzirá os drops correspondentes. Da mesma forma, todos os itens que não puderem ser processados serão destruídos.
