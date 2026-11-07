@@ -1,0 +1,12 @@
+Resina e Duroplast
+É fantástico!
+<&resin>A Resina Fenólica é um fluido pegajoso e viscoso que pode ser moldado num plástico resistente conhecido como Duroplast. Esse novo material incrível é rígido, não inflamável e não condutivo, tornando-o um excelente isolante na engenharia elétrica.
+Além disso, sua capacidade de ser moldado o torna muito mais confiável na produção em massa que madeira ou cerâmica.<np>
+<&acetaldehyde>Seu processo de produção, porém, é mais elaborado e depende de processos químicos complexos só possíveis numa <link;refinery;§o§nRefinaria§r>.<br>
+Primeiro, o <link;fermenter;Etanol;start> obtido da fermentação de plantas deve ser oxidado para virar Acetaldeído. Esse processo é feito usando uma §2Placa de Prata§r como catalisador e enchendo um dos tanques da refinaria com Etanol, enquanto o outro tanque permanece vazio.
+O Acetaldeído resultante é então transferido para uma §osegunda§r refinaria, onde é combinado com <link;cokeoven;Óleo de Creosoto> para criar §2Resina Fenólica§r. Esse processo não exige catalisador.<np>
+<&duroplast_sheet>Itens de duroplast são criados enchendo os <link;metal_press;moldes;mold_recipes> adequados com resina na <link;bottling_machine;§o§nMáquina §o§nde Envase§r>. A máquina consegue conferir calor e pressão suficientes dentro desses moldes para fazer a resina endurecer.<br>
+As chapas resultantes são usadas na criação de <link;components;Componentes Eletrônicos Avançados;elec_components> e <link;components;Placas de Circuito;pcb>, onde atuam como isolantes.<np>
+<&duroplast_block>Blocos sólidos de duroplast podem ser usados para construção e decoração, embora nem todos apreciem sua cor. Mais importante, porém, eles servem para substituir a §2Terracota§r ao fabricar <link;wiring;conectores e relés de fio;connector_recipes>, reduzindo a quantidade de argila necessária!<np>
+<&fiberboard>A Placa de Fibra é feita de <link;sawmill;serragem;sawdust> comprimida misturada com resina, criando um bloco denso e compacto. Compartilha as propriedades da madeira e pode ser usada como substituta de tábuas na maioria das receitas. Uma excelente forma de reciclar o que seria desperdício!
+<&empty_shell> Você também pode usar resina na criação de estojos vazios para os <link;bullets;cartuchos do Revólver;empty>, tornando-os mais baratos e fáceis de produzir em massa.

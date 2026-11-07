@@ -1,0 +1,12 @@
+Reciclagem de Escória
+Desperdício Zero!
+Embora a escória seja considerada um resíduo do <link;crude_blast_furnace;Alto-Forno>, suas propriedades permitem que ela seja reutilizada de várias formas. Usos especiais são detalhados nas páginas seguintes.
+
+A escória pode ser transformada em vários blocos de construção, incluindo dois terços de uma <link;concrete;mistura de concreto>, e vidro. Além disso, devido à sua composição mineral, a escória pode ser usada para criar <link;chemicals;fertilizante industrial;fertilizer>
+<&slag_gravel>O §2Cascalho de Escória§r é escória processada no <link;crusher;Triturador> num cascalho grosso. Compartilha o comportamento de qualquer outro cascalho e pode ser triturado ainda mais em areia.
+
+Além disso, o cascalho de escória contém nutrientes valiosos para a flora aquática. Plantas aquáticas plantadas nele (como alga) tendem a crescer mais rápido que em outros blocos.
+<&slag_glass>Fundindo escória numa fornalha comum em vez de triturá-la, ela vira §2vidro de escória§r, um material duro e semitransparente. Ele reduz a intensidade da luz que passa por ele e pode ser usado como isolante em <link;wiring;relés de alta tensão;connector_recipes>.
+<&slag_bricks>Os §2Tijolos de Escória§r são escória moldada por fabricação ou cortador de pedra em tijolos vítreos. Devido à sua construção vitrificada, os tijolos de escória têm densidade e dureza maiores que tijolos de argila comuns, resistindo a explosões mais facilmente.
+
+Tijolos de Escória podem ser transformados em escadas, lajes e muros, que têm uma pequena soleira de tijolo assado na camada superior.

@@ -1,0 +1,21 @@
+Fios de Redstone
+Dominação da Integração
+<&coil>§2Fios de Redstone§r são alumínio revestido em pó de redstone. Os cabos resultantes oferecem uma forma fácil de transferir sinais de redstone por longas distâncias sem perder intensidade.<&connector>Os §2conectores§r funcionam como qualquer outro conector de fio em termos de conexão, porém a fiação de redstone não exige relés; conectores e relés são o mesmo bloco.
+Com a Chave de Fenda de Engenheiro, os conectores podem ser configurados entre modo de entrada e saída e definidos para uma de 16 frequências coloridas.
+<&probe>Os §2Conectores de Sonda de Redstone§r têm funcionalidade semelhante aos Comparadores de Redstone, lendo inventários para saber quão cheios estão. Não só isso, mas podem ser configurados com um §llimite de sinal§r e só emitem se esse limite for atingido — semelhante a um comparador.
+Além disso, essas sondas podem operar em dois canais, enviando seu sinal de leitura num e recebendo sinais em outro. Todas essas configurações são feitas usando a Chave de Fenda de Engenheiro.
+
+Note que muitos multiblocos do IE têm funcionalidade de comparador, como descrito nas páginas seguintes. Onde disponível, a superfície de controle de redstone do multibloco é o ponto designado para conectar um comparador.<np>
+§lTanque: §rconforme detalhado em sua <link;tank;entrada do manual>
+§lSilo: §rconforme detalhado em sua <link;silo;entrada do manual>
+§lMontadora: §rEmite sinal relativo ao enchimento do inventário.
+§lBancadaAutomat.: §rEmite sinal relativo ao enchimento do inventário.
+§lTriturador: §rEmite sinal relativo ao enchimento do inventário.
+§lPrensadora: §rEmite sinal relativo ao enchimento do inventário.
+§lFermentador: §rEmite sinal relativo ao enchimento do inventário.
+§lEscavadeira: §rEmite sinal relativo ao minério restante no veio.
+§lForno a Arco: §rEmite sinal relativo ao enchimento do inventário.
+Adicionalmente, conectar um comparador aos eletrodos no topo emite sinal baseado em sua integridade.
+§lMisturadora: §rEmite sinal relativo ao enchimento do inventário.<np>
+<&bundled>Os §2Conectores de Interface de Redstone§r são projetados para ser acoplados a outros blocos que podem usar os sinais coloridos de redstone.
+O conector de interface é inerte e não possui cor, estado de entrada ou saída, mas permite que blocos como o <link;item_batcher;Distribuidor de Itens> interajam diretamente com a rede de fios.

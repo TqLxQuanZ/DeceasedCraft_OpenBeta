@@ -1,0 +1,6 @@
+Herbicida
+Uma praga sobre a flora
+<&items>O Herbicida é uma mistura química com efeitos bem venenosos à flora local.<br>
+Quando carregado num <link;chemthrower;Lançador Químico>, ele é disperso como uma névoa fina, que murcha e destrói qualquer planta com que entre em contato.
+O fluido remove folhas das árvores, destrói flores, arbustos e plantações e arranca a grama da terra. Ele também desidrata e arruína plantações.<br>
+<&mixing>Para fabricar Herbicida, misture meio balde de <link;fermenter;Etanol> com §2Pó de Cobre§r e §2Pó de Enxofre§r na <link;mixer;Misturadora>.

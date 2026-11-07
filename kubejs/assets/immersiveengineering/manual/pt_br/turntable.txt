@@ -1,0 +1,7 @@
+Tornearia
+Não consigo acompanhar
+<&recipe>A Tornearia gira blocos colocados contra ela.
+Segurar um Martelo de Engenheiro enquanto olha para um lado da máquina exibe seu lado de rotação e a direção de giro associada ao lado mirado.
+A direção de giro é definida individualmente para cada um dos 4 lados ao redor do eixo de rotação, permitindo giros de ±90° ou 180°, dependendo de qual lado recebe o sinal de redstone.
+
+Clicar com o Martelo o reorienta; agachar ao fazer isso alterna entre as direções de giro da Tornearia.

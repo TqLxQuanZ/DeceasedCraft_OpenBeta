@@ -1,0 +1,19 @@
+Depósitos de Minério
+Minério Bom
+Os depósitos de minério encontrados pelo seu mundo não são novidade para você. O que você até agora deixou de considerar são os veios minerais, que contêm uma mistura de diferentes minérios. Devido à sua forma larga e fina, o minerador comum não consegue encontrá-los, mas uma <link;excavator;máquina especial> pode ajudar nisso.
+<&survey_tools>Para começar a procurar veios minerais, você vai querer fabricar umas §2Ferramentas de Prospecção§r. Ao se aventurar e usar essas ferramentas em vários blocos de solo natural, você pode identificar veios e achar suas posições aproximadas.
+
+Cada amostra que você coleta do mesmo veio fornece uma leitura mais precisa do que ele contém e de onde se origina. Note que veios podem se sobrepor, então você pode achar traços de veios diferentes bem próximos.
+
+Note também que, se um veio for escavado de longe, o local de escavação será extraído de forma ineficiente, removendo mais rejeito, como rocha e solo.
+
+Por causa da escavação ineficiente, o veio produzirá menos minério que um veio escavado com eficiência.
+<&sample_drill>Depois de estreitar o tipo e a posição do veio, use uma §2Furadeira de Amostra de Núcleo§r para obter uma leitura precisa de quais veios existem numa posição exata.
+Abasteça a máquina com energia e clique com o botão direito ou use redstone para ativá-la. A furadeira consome <config;i;machines.coredrill.consumption> Flux/t para extrair uma amostra de núcleo em sua posição, que fornece informações detalhadas sobre o veio mineral.
+<np>
+<&core_sample>A amostra não só diz exatamente quais minerais existem ali, incluindo sua presença relativa, mas também sua §2saturação§r individual. Uma saturação maior significa maior chance de uma escavadeira retornar minério.
+
+Agachar + clicar com o botão direito numa amostra de núcleo a coloca no mundo, permitindo ler sua posição e informações. Além disso, quando colocada, você pode clicar nela com um mapa para marcar sua posição original nele.
+
+As páginas seguintes listam todo tipo de veio e os minérios — e rejeitos — que podem ser extraídos deles.
+<np>

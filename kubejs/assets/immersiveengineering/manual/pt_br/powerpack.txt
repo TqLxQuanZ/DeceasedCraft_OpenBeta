@@ -1,0 +1,13 @@
+Mochila de Acumulador
+Um... Três... Egon!
+Armazenar energia ocupa espaço e exige componentes pesados. Por isso, guardar grandes quantidades de energia em cada ferramenta individualmente é ineficiente e as torna desajeitadas de empunhar.
+A Mochila de Acumulador funciona como um meio-termo, oferecendo um armazenamento centralizado de energia para qualquer ferramenta energizada acessar. Você constrói sua estrutura de transporte com a receita mostrada aqui. Depois, pode levá-la à <link;workbench;Bancada de Engenheiro;start> para instalar um <link;accumulators;Acumulador> dentro dela.
+A mochila carrega qualquer ferramenta em suas mãos, assim como qualquer armadura que você estiver vestindo. Você pode usá-la como uma peça de armadura de peito, ou fabricá-la junto de uma peitoral para acoplá-la e ganhar o benefício de uma fonte de energia além de proteção.
+Note que você não pode usar a <link;charging_station;Estação de Carga> para carregar a mochila enquanto ela estiver acoplada a uma armadura.
+<br>As próximas páginas detalham as melhorias que você pode acoplar à Mochila de Acumulador.<np>
+<&antenna>Acoplando uma §2Antena de Carga§r à mochila, você pode carregar seu acumulador em movimento! Basta andar sob uma <link;wiring;linha de energia não isolada;wire_recipes> para a antena se conectar a ela.<br>
+Enquanto você permanecer perto o suficiente do fio, a antena se flexiona e permanece conectada, carregando lentamente o acumulador pela rede de fios.<np>
+<&induction>O §2Carregador por Indução§r permite à mochila de acumulador carregar todos os itens do seu inventário, e não apenas os em suas mãos. Porém, por não usar conexão direta por fio, esse carregamento é bem mais lento.<np>
+<&magnet>O §2Eletroímã Portátil§r é uma versão especializada do <link;electromagnet;bloco maior>, projetada para atrair itens próximos ao usuário, permitindo coletá-los facilmente. Graças a um circuito aprimorado, esta melhoria só consome energia enquanto itens estiverem sendo movidos.<np>
+<&tesla>Como o nome sugere, a §2Bobina de Tesla Miniaturizada§r é parecida com sua <link;tesla_coil;irmã maior>, um dispositivo que desfere choques perigosos em alvos próximos. Ela o faz em resposta a ataques ao usuário, substituindo armadura de espinhos por eletricidade.
+<br>Por se acoplar ao topo da mochila, a bobina não pode ser usada ao mesmo tempo que a Antena de Carga.

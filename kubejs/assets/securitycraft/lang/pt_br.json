@@ -1,0 +1,7 @@
+{
+  "module.securitycraft.reinforced_dispenser.whitelist_module.description": "Adicionar um módulo de lista de permissão a um Ejetor Reforçado permitirá que jogadores listados acessem o conteúdo do ejetor. Além disso, Funis Reforçados pertencentes a jogadores listados podem extrair itens do ejetor.",
+  "block.securitycraft.secret_bamboo_sign": "Placa Secreta de Bambu",
+  "block.securitycraft.secret_cherry_sign": "Placa Secreta de Cerejeira",
+  "item.securitycraft.bamboo_security_sea_raft": "Jangada de Segurança de Bambu",
+  "gui.securitycraft:secure_redstone_interface.receive_inverted_power.tooltip.false": "O sinal de redstone emitido é o mesmo que o receptor recebe."
+}

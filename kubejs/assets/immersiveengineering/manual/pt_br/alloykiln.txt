@@ -1,0 +1,5 @@
+Forno de Ligas
+Misturando Metais
+<&recipe>O Forno de Ligas é uma fornalha simples feita de arenito e tijolos resistentes ao calor. Dentro dele, as temperaturas são altas o suficiente para fundir metais em estado fluido e misturá-los, criando uma <link;alloys;liga>.
+Isso permite criar ligas importantes como Electrum e Constantan sem a mistura tediosa de pós. <&multiblock>Para formar o Forno, arranje 8 dos Tijolos de Forno num cubo 2x2x2, como mostrado acima, e clique com o botão direito num dos blocos laterais usando um Martelo de Engenheiro.
+<&insulating_glass>O forno de ligas também é essencial na criação do §2vidro isolante§r, um componente usado na construção de <link;wiring;arquitetura de alta tensão;connector_recipes>.

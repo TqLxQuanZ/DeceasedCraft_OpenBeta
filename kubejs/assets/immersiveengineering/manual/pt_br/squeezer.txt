@@ -1,0 +1,6 @@
+Prensadora
+Assuntos de Pressão
+A Prensadora é uma estrutura multibloco que extrai suco ou óleo de materiais orgânicos usando um grande pistão. A estrutura é montada como mostrado acima e formada usando o Martelo de Engenheiro no barril de madeira central, pelo lado que tem os Blocos de Engenharia.
+Os itens entram na Prensadora pelas duas aberturas na traseira marcadas com pontos azuis. A abertura com ponto laranja serve como saída de itens e o bloco abaixo dela como saída de fluidos.
+Aplicar um sinal de redstone ao painel de controle frontal interrompe o processo da máquina; esse comportamento pode ser invertido com a Chave de Fenda de Engenheiro.
+<np>A lista a seguir mostra vários itens que podem ser prensados em óleo vegetal e a quantidade produzida.<&list>

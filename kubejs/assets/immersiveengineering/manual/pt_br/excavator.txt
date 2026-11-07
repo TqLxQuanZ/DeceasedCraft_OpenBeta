@@ -1,0 +1,4 @@
+Escavadeira
+Melhor que Anões
+<&excavator>A Escavadeira é um dos auge da engenharia moderna. Ela consegue extrair <link;minerals;minerais> de veios inacessíveis pela mineração normal. Em troca, porém, a escavadeira é uma estrutura complexa que requer <config;i;machines.excavator.consumption> Flux/t para operar.
+<&wheel><&full>A estrutura é composta de duas peças: o motor mostrado na primeira página e a roda de caçambas exibida na segunda, que se encaixa nos 'braços' do motor como mostrado na página anterior. A entrada de energia do motor fica na lateral; a traseira abriga um painel de controle de redstone e a saída de itens.<br>Conforme a escavadeira extrai minérios, o rendimento do veio diminui lentamente, mas um veio de minerais pode fornecer até <config;i;machines.excavator.yield> blocos de minério.

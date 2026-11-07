@@ -1,0 +1,7 @@
+Distribuidor de Itens
+Juntem-se, Agora
+<&recipe>O Distribuidor de Itens é projetado para coletar um conjunto de itens de uma esteira alimentadora antes de enviá-los adiante, a fim de transferir lotes otimizados para as máquinas.<np>
+Coloque o bloco e abra sua interface para definir vários filtros. Os itens recebidos serão aceitos nos espaços diretamente abaixo dos filtros, e o lote coletado só será emitido quando todos os filtros estiverem satisfeitos.
+Esse comportamento pode ser ajustado pelo botão "Modo de Saída". O comportamento padrão descrito acima é chamado de §2modo de lotes§r. No §2modo único§r, qualquer item que satisfaça sua quantidade filtrada será emitido.<np>
+Usando os 9 botões abaixo do buffer, você pode alternar entre as cores dos <link;redstone_wire;fios de redstone>. Acoplando um <link;redstone_wire;Conector de Interface de Redstone;bundled>, o Distribuidor de Itens enviará sinais pelos fios de redstone quando um filtro for satisfeito.
+Isso permite desativar esteiras extratoras ou máquinas produtoras quando a quantidade necessária de itens é atingida. Note que, se vários filtros usarem a mesma cor, todos precisam estar satisfeitos para o sinal ser enviado.

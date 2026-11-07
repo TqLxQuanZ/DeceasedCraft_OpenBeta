@@ -1,0 +1,6 @@
+Roteador de Fluidos
+Leite vai à esquerda, ácido à direita
+<&recipe>O Roteador de Fluidos funciona de forma bem parecida com o <link;item_router;Roteador de Itens;start>. Fluidos que entram por qualquer lado são redistribuídos conforme a configuração dos seis filtros laterais.
+Clicar com um balde ou outro recipiente de fluido nos espaços da GUI configura o filtro para aquele fluido.<np>
+Quando fluidos são canalizados para o roteador, eles são roteados para uma saída cujo filtro combine com o fluido ou, se nenhum filtro combinar, o fluido é roteado para uma saída sem filtro. Se não houver rota disponível ou válida, nenhum fluido será aceito.
+Os botões acima de cada filtro podem ser usados para fazer o roteador respeitar ou ignorar os dados NBT do fluido.

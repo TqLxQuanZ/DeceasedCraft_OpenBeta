@@ -1,0 +1,10 @@
+Furadeira de Mineração
+Minha furadeira perfurará a rocha matriz!
+<&drill_base_recipes>A furadeira portátil a diesel é um grande avanço na mineração. Com cabeças de perfuração e melhorias trocáveis, suas propriedades são quase totalmente modificáveis. Para modificá-la, coloque-a numa <link;workbench;Bancada de Engenheiro;start>. A furadeira funciona com <link;refinery;Biodiesel;diesel> e pode ser abastecida diretamente na refinaria.
+A furadeira escava numa área dependendo da cabeça usada, mas você pode agachar para limitá-la a um único bloco. Você também pode agachar e clicar com o botão direito para mudar a furadeira para o modo de bloco único.<np>
+<&drill_head_recipes>A §2Cabeça de Perfuração§r determina o §2nível de mineração§r, a §2velocidade§r e o §2tamanho§r base, bem como o §2dano de ataque§r. Ao escavar blocos, a cabeça sofre desgaste, mas pode ser reparada numa bigorna.<np>
+<&drill_waterproof_recipe>Como a furadeira é movida por um motor de combustão, ela não funciona debaixo d'água a menos que você a equipe com a melhoria §2Tanque de Ar Pressurizado§r. Porém, com esta melhoria equipada, ela não só funciona submersa, como também ignora a lentidão usual de escavar na água.<np>
+<&drill_lube_recipe>O §2Sistema de Lubrificação Avançado§r aplica lubrificante adicional à furadeira regularmente, diminuindo a perda de durabilidade da cabeça de perfuração.<np>
+<&drill_damage_recipe>Ao adicionar §2Broca Extra§r à furadeira, seu potencial destrutivo aumenta, elevando seu dano contra criaturas vivas e permitindo escavar mais rápido. A melhoria acumula até três vezes.<np>
+<&drill_fortune_recipe>A ação potente da furadeira resulta no desperdício de parte do mineral precioso do chão. Usando <link;redstone_acid;ácido de redstone> para amolecer a rocha primeiro, a furadeira consegue extrair muito mais minério bruto dos blocos (semelhante ao encantamento §2Fortuna§r).<np>
+<&drill_capacity_recipe>O §2Tanque de Combustível Grande§r permite à furadeira armazenar mais combustível internamente, estendendo o tempo de uso antes de reabastecer.

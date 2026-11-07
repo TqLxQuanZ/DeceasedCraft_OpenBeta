@@ -1,0 +1,5 @@
+Bidão
+Melhor que baldes
+<&recipe>Bidões são recipientes simples de metal usados para transportar fluidos. Armazenam até 10 baldes e podem despejar o fluido no mundo assim como em máquinas.
+Eles não podem coletar fluidos, porém.<br>
+Além disso, podem ser usados para reabastecer itens que consomem fluido como a <link;mining_drill;Furadeira de Mineração;start>, colocando-os juntos numa grade de fabricação.

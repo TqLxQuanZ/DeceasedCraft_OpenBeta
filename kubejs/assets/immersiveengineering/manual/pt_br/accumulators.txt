@@ -1,0 +1,3 @@
+Acumuladores
+Energia Para Levar
+<&recipes>Os §lAcumuladores§r servem como unidades de armazenamento de energia. Você pode usar o martelo para ajustar a configuração de cada lado, com azul marcando uma entrada, laranja uma saída e sem marcação nenhuma impedindo qualquer conexão. Agache-se ao usar o martelo para configurar o lado oposto ao que clicou.

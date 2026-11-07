@@ -1,0 +1,17 @@
+Circuitos Lógicos
+Turing Completo
+Com a grande velocidade e versatilidade dos <link;redstone_wire;Fios de Redstone> e as propriedades únicas de um <link;components;Tubo de Vácuo;tubes>, agora é possível reduzir muito o tamanho de circuitos de redstone complexos.
+Usando a Mesa de Circuitos, você pode criar circuitos lógicos bem menores. Para isso, você precisará de uma <link;components;placa de circuito;pcb>, alguns tubos de vácuo e alguma solda como fios de chumbo ou cobre. A mesa também precisa ser alimentada com energia pela entrada na traseira.
+
+Usando os vários componentes, você então seleciona o padrão de circuito desejado e define os valores de entrada, bem como a saída designada.
+As entradas e saídas disponíveis são os 16 canais coloridos de um fio de Redstone, além de 8 "Registradores". Estes permitem armazenar temporariamente um valor dentro do bloco que processa a lógica — mais sobre isso adiante.
+
+Depois de definir o operador, as entradas e saídas, você vê a lista de componentes necessários ao lado dos espaços de entrada à esquerda. A quantidade de componentes exigida depende da complexidade do circuito, sendo §lNAND§r o mais fácil de produzir. Enquanto houver componentes suficientes, você pode retirar o circuito pronto da saída à direita.<np>
+Atalhos úteis:
+- Ao pairar sobre um botão de entrada ou saída, pressione uma tecla numérica para mudá-lo para o registrador numerado. Pressione uma letra para ciclar pelas cores que começam com ela.
+- Pegue um circuito lógico pronto e clique no centro da interface da mesa de circuitos para copiar as instruções para a mesa.<np>
+<&unit>A Unidade Lógica é o bloco no qual os circuitos lógicos prontos são encaixados para uso. Ela tem espaço para um total de §210 circuitos§r e traz §28 registradores internos§r completos, permitindo usá-la para qualquer circuito.
+Para a unidade lógica interagir com os sistemas coloridos de redstone, é preciso ter um <link;redstone_wire;Conector de Interface de Redstone;bundled> acoplado à lateral.
+Toda vez que qualquer conector acoplado muda de estado, a unidade lógica percorre seus circuitos e executa todas as 10 operações.
+Se um circuito usa um registrador como saída, o valor resultante é mantido no registrador e pode ser usado por circuitos posteriores como entrada.
+O mesmo conector de interface usado para entrada também pode ser usado como saída.

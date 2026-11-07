@@ -1,0 +1,23 @@
+{
+  "language": "Português (Brasil)",
+  "language.code": "pt_br",
+  "language.region": "Brasil",
+  "block.engineered_schematics.schematic_table_block": "Mesa de Esquemas",
+  "desc.engineered_schematics.schematic_table": "Mesa de Esquemas",
+  "itemGroup.engineered_schematics": "Engineered Schematics",
+  "engineered_schematics.gui.schematic_table.mirror": "Espelhado",
+  "item.engineered_schematics.multiblock_schematic.specific": "Esquema de %s",
+  "item.engineered_schematics.multiblock_schematic.specific.mirrored": "Esquema Espelhado de %s",
+  "item.engineered_schematics.multiblock_schematic": "Esquema em Branco",
+  "desc.engineered_schematics.info.schematic.size": "%s",
+  "desc.engineered_schematics.info.schematic.block_info": "Segure [%s] para Materiais",
+  "desc.engineered_schematics.info.schematic.no_multiblock": "Esquemas em Branco",
+  "desc.engineered_schematics.info.schematic.moved": "Esquema Movido",
+  "desc.engineered_schematics.info.schematic.rotated": "Esquema Girado",
+  "desc.engineered_schematics.info.schematic.placed": "(Apenas Criativo) Esquema Colocado",
+  "desc.engineered_schematics.info.schematic.tier": "Isso pode ser formado usando o %s",
+  "desc.engineered_schematics.info.schematic.ie_tier": "Martelo de Engenheiro",
+  "item.engineered_schematics.multiblock_schematic.formed": "Completo",
+  "item.engineered_schematics.multiblock_schematic.error": "Erro de Bloco",
+  "manual.engineered_schematics.main": "Engineered Schematics"
+}

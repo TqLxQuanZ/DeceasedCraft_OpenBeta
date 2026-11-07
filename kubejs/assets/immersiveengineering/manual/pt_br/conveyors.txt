@@ -1,0 +1,22 @@
+Esteiras
+Quem precisa de trilhos mesmo?
+<&conveyor_recipes>Esteiras são uma forma fácil de transportar todo tipo de coisa pela sua base. Embora sejam fortes o suficiente para mover criaturas vivas como vacas ou ovelhas, sua verdadeira força está em transportar itens.
+Jogar itens sobre elas faz os itens se moverem ao longo da esteira. Se a esteira levar a um inventário, o item será inserido. Blocos como funis conseguem soltar itens sobre as esteiras.
+Use o Martelo de Engenheiro para girar as esteiras (botão direito) ou ajustar se devem subir ou descer (agachar + botão direito).
+Clicar com o botão direito numa esteira com qualquer corante pinta as paredes da esteira para identificar facilmente para onde ela vai.<np>
+<&conveyor_redstone_recipe>A Esteira Controlada por Redstone pode ser desativada com um sinal de redstone.
+O painel na lateral permite acoplar uma alavanca, mas o sinal de redstone pode entrar por qualquer direção. Agachar + botão direito com o Martelo de Engenheiro move o painel para o outro lado.<np>
+<&conveyor_dropper_recipe>A Esteira Lançadora é simplesmente uma esteira com uma abertura no meio, permitindo soltar para baixo os itens que passam sobre ela.
+Os itens serão inseridos em inventários abaixo ou simplesmente largados se houver espaço vazio sob a esteira.
+A abertura pode ser fechada com um sinal de redstone, quando desejado.<np>
+<&conveyor_extract_recipe>A Esteira Extratora tem a habilidade de extrair itens de um inventário de forma semelhante a um Funil. Ao contrário deste, porém, ela não possui inventário interno e coloca os itens extraídos sobre a esteira.
+Agachar + botão direito com o Martelo de Engenheiro muda seu lado de entrada. Use a Chave de Fenda de Engenheiro para ajustar a velocidade de extração.<np>
+<&conveyor_vertical_recipe>A Esteira Vertical é uma esteira feita para ser montada em paredes. Usando os baldes presos a ela, ela eleva entidades direto para cima. Apesar do uso do termo "balde", ela não eleva fluidos.
+Esta esteira pode inserir em inventários acima dela ou simplesmente expelir itens pela borda no topo para outras esteiras.<np>
+<&conveyor_splitter_recipe>A Esteira Divisora alterna entre redirecionar Itens e Entidades para a esquerda e para a direita, simples assim. Esse recurso pode ser usado para obter uma distribuição mais equilibrada nas suas fábricas.<np>
+<&conveyor_covered_recipe>A Esteira Coberta funciona como uma esteira comum, porém é coberta por uma peça de andaime, o que impede jogadores de recolherem itens dela.
+Você pode clicar com o botão direito nela com outros tipos de andaime ou vidro para mudar a aparência da cobertura.<np>
+<&conveyor_other_covered_recipes>Da mesma forma, as esteiras Lançadora, Extratora, Divisora e Vertical também podem ser cobertas com andaimes para obter os mesmos benefícios de "prevenção de coleta" enquanto funcionam normalmente.
+<&chute_recipes>Calhas são construções simples feitas de chapa metálica que permitem entidades cair direto para baixo.
+Elas podem inserir em inventários abaixo delas e receber de esteiras ou dispositivos semelhantes. Itens dentro delas não serão recolhidos por jogadores e devem ser imunes à maioria das formas de atração, magnética ou mágica.
+Agachar + botão direito com o Martelo de Engenheiro transforma a calha numa peça de canto que direciona a entidade para o lado.

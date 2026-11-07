@@ -1,0 +1,9 @@
+Componentes de Fabricação
+Peças Integrais
+Muitas máquinas e ferramentas são construídas a partir de vários subcomponentes. Alguns deles você usará com frequência, e é por isso que têm sua própria entrada neste manual. Os Componentes Mecânicos de §2Ferro§r e §2Aço§r são integrais à maioria dos Multiblocos e máquinas.<np>
+<&create_bp>Como você se verá criando esses componentes com frequência, pode ser aconselhável redigir um <link;blueprints;Projeto> para eles.
+<&mech_components>Usar esse projeto numa <link;workbench;Bancada de Engenheiro> permite construir os componentes com custo reduzido.<np>
+<&elec_components>Os §2Componentes Eletrônicos§r são mais complicados e menos usados que sua contraparte mecânica. São, porém, essenciais para qualquer dispositivo com nível avançado de controle, como o <link;item_batcher;Distribuidor de Itens> ou as <link;turrets;Torres Automáticas>.<np>
+<&light_bulbs>§2Lâmpadas Incandescentes§r são feitas de um filamento de bambu ou papel carbonizado que produz luz e calor quando energizado. São usadas principalmente para fabricar <link;lighting;luminárias;electric_lantern>.<np>
+<&tubes>Outro componente, embora menos usado, são os §2Tubos de Vácuo§r. Esses ingredientes caros são usados em <link;logic_circuits;circuitos lógicos> e maquinário eletrônico mais complexo.<np>
+<&pcb>A §2Placa de Circuito§r é uma placa isolada de cobre à qual vários componentes podem ser soldados para criar <link;logic_circuits;Circuitos Lógicos>.

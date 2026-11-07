@@ -1,0 +1,6 @@
+Bancada de Engenheiro & Projetos
+Sempre bagunçada
+A Bancada de Engenheiro é uma mesa de trabalho profissional para o engenheiro educado. É amplamente usada para construir os itens descritos nos <link;blueprints;Projetos de Engenheiro>.
+Uma grande variedade de projetos pode ser fabricada, como detalhado na respectiva entrada do manual, enquanto alguns poucos seletos só podem ser descobertos no mundo ou comprados de aldeões.
+Para usar um projeto na Bancada, coloque-o no espaço à esquerda da GUI e os ingredientes necessários nos seis espaços do meio. Os itens resultantes podem então ser retirados do lado direito. Passar o mouse sobre esses espaços de saída informa exatamente quais materiais são necessários para cada item.<np>
+Uma função secundária da Bancada é a modificação e configuração de ferramentas e aparelhos mais complexos. A <link;mining_drill;Furadeira de Mineração>, o <link;shield;Escudo Pesado Revestido> ou o <link;revolver;Revólver> são exemplos de tais itens. Quando colocados no espaço principal da bancada, seu uso passa a ser modificar essas ferramentas inserindo melhorias aplicáveis nos novos espaços que aparecem.

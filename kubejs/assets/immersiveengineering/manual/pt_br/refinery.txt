@@ -1,0 +1,8 @@
+Refinaria
+Mistura de fluidos!
+<&multiblock>A Refinaria é um multibloco complexo que pode refinar um ou dois fluidos em outro. A aplicação mais comum disso é a produção de Biodiesel.
+Para formar a estrutura, clique com o botão direito no Bloco de Engenharia Pesada da camada do meio.
+Os fluidos entram pelas duas portas em cada lado do bloco e saem pela porta marcada em laranja na frente. Usar baldes para interagir com os tanques da refinaria também é possível.
+Aplicar um sinal de redstone ao painel de controle frontal interrompe o processo da máquina; esse comportamento pode ser invertido com a Chave de Fenda de Engenheiro.
+<&diesel>A maioria dos processos de refinaria exige a adição de um catalisador para habilitar a reação. O catalisador não é consumido, mas o processo não funciona sem ele.
+<br>Para produzir §lBiodiesel§r, combine partes iguais de <link;squeezer;Óleo Vegetal;start> e <link;fermenter;Etanol;start> usando <link;chemicals;Pó de Nitrato> como catalisador.

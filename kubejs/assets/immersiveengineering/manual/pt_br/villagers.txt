@@ -1,0 +1,14 @@
+Aldeões
+Testificados com Diploma
+Durante suas viagens, você pode ter encontrado várias aldeias e seus habitantes estudiosos.<br>
+Alguns deles, aliás, são engenheiros qualificados! Suas profissões e mercadorias estão descritas aqui.<np>
+<&engineer> O §lEngenheiro Estrutural§r negocia materiais de construção como madeira tratada, andaimes e concreto. Se você ficar amigo o suficiente deles, podem até vender um mapa do tesouro para um <link;minerals;Veio Mineral;start> próximo...
+Sua estação de trabalho é um §2Tornearia§r.<np>
+<&machinist> O §lMecânico§r é especialista em metais, mecânica e ferramentas. Ele vende martelos, caixas de ferramentas e cabeças de perfuração. Mecânicos muito experientes até sabem desenhar projetos para <link;graphite;eletrodos de grafite;electrode>.
+Sua estação de trabalho é uma §2Bancada de Trabalho de Engenheiro§r.<np>
+<&electrician> O §lEletricista§r oferece alicates de corte, bobinas de fio e peças de traje de Faraday. Alguns aldeões menos respeitáveis também podem ter um estoque de melhorias experimentais de armas...
+Sua estação de trabalho é uma §2Mesa de Circuitos de Engenheiro§r.<np>
+<&gunsmith> O §lArmeiro§r trabalha com as armas de fogo recentemente populares. Além de vender vários tipos de munição, ele também fabrica algumas peças raras para o <link;revolver;Revólver;start> que influenciam seu desempenho.
+Sua estação de trabalho é uma §2Bancada de Engenheiro§r.<np>
+<&outfitter> O §lEstilista§r pode não parecer um engenheiro tradicional, embora seu campo de trabalho não seja menos preciso! Enquanto outros fabricam componentes e montam grandes estruturas, eles projetam padrões únicos de cor conhecidos como <link;shader;Shaders;start>.
+Eles vendem pacotes surpresa de shaders, permitindo que você adquira aleatoriamente peças de sua arte. Sua estação de trabalho é um §2Estandarte de Shader§r, criado usando um shader num estandarte comum já colocado.

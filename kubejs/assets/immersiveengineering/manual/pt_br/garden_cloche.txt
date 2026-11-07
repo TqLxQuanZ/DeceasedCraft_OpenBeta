@@ -1,0 +1,7 @@
+Estufa
+Floresta Tropical Localizada
+<&recipe>A Estufa, ou Cúpula de Vidro, é um dispositivo projetado para acelerar o crescimento de plantas. Ela permite até mesmo ao engenheiro menos dotado em agricultura cultivar plantas e colher seus frutos.<np>
+O dispositivo aceita energia, fluido e itens por suas respectivas portas.
+Água e energia são sempre necessárias, e você pode adicionar fertilizante ao espaço à esquerda para aumentar a velocidade de crescimento.
+Terra e sementes são colocadas no meio; cada semente exige a terra correta para crescer, e a terra comum é arada automaticamente em plantação.<np>
+Os itens produzidos são armazenados nos espaços à direita e são emitidos automaticamente pela abertura na frente da cúpula de vidro.

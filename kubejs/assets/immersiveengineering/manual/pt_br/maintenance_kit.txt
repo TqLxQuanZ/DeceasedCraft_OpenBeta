@@ -1,0 +1,6 @@
+Kit de Manutenção
+Reparos em Movimento
+<&recipe>Entre os Engenheiros que viajam pelo mundo ou passam boa parte do tempo em minas, um problema se cristaliza.
+Suas ferramentas exigem manutenção constante e carregar uma bancada inteira simplesmente não é viável.
+Felizmente, um kit de manutenção consegue realizar a maioria dos pequenos reparos e reconfigurações.<br>
+Um conjunto de ferramentas embrulhado em tecido de cânhamo resistente, o kit de manutenção permite personalizar suas ferramentas da mesma forma que a <link;workbench;Bancada de Engenheiro>. Você não precisará mais subir à superfície para trocar a cabeça da sua Furadeira de Mineração nem voltar à sua oficina para configurar seus Protetores Auriculares. Tudo isso agora pode ser feito em movimento com o Kit de Manutenção!

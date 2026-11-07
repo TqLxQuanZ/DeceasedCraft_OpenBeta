@@ -1,0 +1,4 @@
+Barril de Madeira
+Não rola
+<&recipe>Barris de madeira são recipientes simples que armazenam fluido. Guardam até 12 baldes, mas por serem de madeira, não podem armazenar gases nem fluidos quentes.
+Clicar com o botão direito no topo ou na base do barril com um Martelo alterna entre entrada, saída ou nenhuma conexão.

@@ -1,0 +1,14 @@
+Cartuchos de Revólver
+
+Os cartuchos são criados na Bancada de Engenheiro, usando <link;blueprints;Projetos de Engenheiro> específicos. Os projetos de munição comum você pode criar sozinho, mas alguns tipos mais avançados exigirão comprar projetos adequados de outra pessoa.<np>
+<&empty>As §lCápsulas §lVazias§r e os §lEstojos§r são a base de todo projétil. Cápsulas Vazias também podem ser fabricadas na <link;metal_press;Prensa de Metal> usando o molde de cápsula de bala, o que reduz o cobre necessário. Da mesma forma, Estojos Vazios podem ser feitos de <link;plastic;Resina Fenólica;empty_shell> numa máquina de envase.<np>
+<&casull>Os §lCartuchos §lCasull§r são criados com um projeto "Projéteis Comuns". São um simples projétil de chumbo que inflige dano médio.<np>
+<&ap>Os §lCartuchos §lPerfurantes§r são criados com o mesmo projeto. Causam o mesmo dano, mas atravessam a armadura por pura força cinética.<np>
+<&buckshot>Os §lCartuchos §lde Chumbo Grosso§r, criados com o projeto mencionado, são carregados com vários pequenos projéteis disparados em forma de cone. Este cartucho é altamente eficaz a curta distância.<np>
+<&he>Os §lCartuchos §lExplosivos§r são criados com um projeto "Projéteis Comuns". Disparam um projétil que explode no impacto, causando dano a criaturas e ao terreno.<np>
+<&silver>Os §lCartuchos §lde Prata§r, também criados com um projeto "Projéteis Comuns", consistem num núcleo de chumbo envolto em prata, tornando-os altamente eficazes contra mortos-vivos.<np>
+<&dragon>Os §lCartuchos §lBafo de Dragão§r são criados com um projeto "Projéteis Especializados". Assim como o Chumbo Grosso, são eficazes a curta distância, mas em vez de pequenas bolinhas de metal, são carregados com um pó metálico inflamável, criando uma explosão de chamas.<np>
+<&potion>Os §lCartuchos §lde Frasco§r também são criados com um projeto "Especializados". Podem ser enchidos com qualquer poção ao fabricá-los juntos numa grade de fabricação, e a poção é aplicada no impacto. Poções normais exigem acerto direto, poções arremessáveis têm área de efeito e Poções Prolongadas criam uma nuvem temporária persistente.<np>
+<&flare>Os §lCartuchos §lde Sinalizador§r são criados com um projeto "Especializados". Quando disparado, o sinalizador explode após certa distância e desce lentamente ao chão. Você pode combinar o cartucho com corantes numa bancada para mudar sua cor.<np>
+<&homing>Os §lCartuchos §lTeleguiados§r são criados com um projeto "Projéteis Especializados". Usando as propriedades intrigantes de um Olho de Ender, esses projéteis ganham a habilidade de buscar e perseguir o alvo mais próximo.
+<&wolfpack>Os §lCartuchos §lAlcateia§r são criados com o mesmo projeto e consistem num conjunto de vários disparos teleguiados num só estojo. O projétil inicial não é guiado, mas no impacto se divide em seis disparos buscadores que retalham os inimigos ao redor.

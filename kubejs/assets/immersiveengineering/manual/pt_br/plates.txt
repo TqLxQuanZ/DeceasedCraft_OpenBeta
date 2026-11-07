@@ -1,0 +1,3 @@
+Placas de Metal
+Chatas como Linguado
+Placas de Metal são um material de fabricação necessário para a criação de algumas máquinas ou blocos. São feitas martelando um lingote com o Martelo de Engenheiro ou numa <link;metal_press;Prensa de Metal>.

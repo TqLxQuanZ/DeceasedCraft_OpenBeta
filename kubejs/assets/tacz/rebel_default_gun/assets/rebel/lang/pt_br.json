@@ -1,13 +1,12 @@
 {
   "rebel.attachment.bayonet_macd1": "Baioneta MACD1",
   "rebel.attachment.rs1_axe": "Machado RS1-L",
-  "rebel.attachment.scope_70s": "70s (Cabeça de Tanque)",
-  "rebel.attachment.stock_sp": "Coronha leve Hsp/Lss",
+  "rebel.attachment.scope_70s": "Mira 70s (Cabeça de Tanque)",
+  "rebel.attachment.stock_sp": "Coronha Leve Hsp/Lss",
   "rebel.attachment.stock_spa": "Coronha Lss",
-
   "rebel.ammo.20sh.name": "20sh",
-  "rebel.ammo.20shdb.name": "20shD (Bafo de Dragão)",
-  "rebel.ammo.20shhe.name": "20shB (HE)",
+  "rebel.ammo.20shdb.name": "20shD (Sopro de Dragão)",
+  "rebel.ammo.20shhe.name": "20shB (Alto Explosivo)",
   "rebel.ammo.52pb.name": ".52 PB",
   "rebel.ammo.56tap.name": "5.6x48mm (Penetradores de Liga de Tungstênio)",
   "rebel.ammo.5627.name": "5.6x27mm",
@@ -16,8 +15,6 @@
   "rebel.ammo.37aphe.name": "37mm APHE-T",
   "rebel.ammo.105ac.name": "Suporte de Artilharia HW 105mm",
   "rebel.ammo.75b.name": "Bala de 7.5mm",
-
-
   "rebel.gun.hsp.name": "Hsp",
   "rebel.gun.lss.name": "Lss",
   "rebel.gun.mta.name": "Lança-granadas MTA",
@@ -28,16 +25,13 @@
   "rebel.gun.t70th.name": "Cabeça de Tanque",
   "rebel.gun.lmg31b.name": "LMG-31B",
   "rebel.gun.rs1.name": "Rs1-L",
-  "rebel.gun.rs1db.name": "Rs1-L (Bafo de Dragão)",
+  "rebel.gun.rs1db.name": "Rs1-L (Sopro de Dragão)",
   "rebel.gun.rs1ma.name": "Rs1-MA",
-  "rebel.gun.rs1mahe.name": "Rs1-MA (HE)",
+  "rebel.gun.rs1mahe.name": "Rs1-MA (Alto Explosivo)",
   "rebel.gun.bq01.name": "Suporte de Artilharia 105mm",
   "rebel.gun.sqg01.name": "Arma de Ar SQG-01",
-  
-
   "rebel.gun.hsp.desc": "",
-  "rebel.gun.lss.desc": "Kit de modificação HSP, usando .45ACP",
-  "rebel.gun.t70th.desc": "? ? ?",
-  "rebel.gun.lmg31b.desc": "Chovendo balas！！！"
-
- }
+  "rebel.gun.lss.desc": "Kit de modificação HSP, usa .45ACP",
+  "rebel.gun.t70th.desc": "¿ ? ?",
+  "rebel.gun.lmg31b.desc": "¡¡¡Chuva de balas!!!"
+}

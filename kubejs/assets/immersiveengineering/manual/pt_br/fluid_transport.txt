@@ -1,0 +1,13 @@
+Transporte de Fluidos
+Encanador Profissional
+<&pipe_recipe>Transportar fluidos se tornou essencial no negócio da engenharia. Tubos de Fluido e Bombas de Fluido fazem exatamente isso. Por si só, os Tubos de Fluido são bem lentos ao transferir fluidos, mas se uma bomba for usada para inserir o fluido, ele se move bem mais rápido.<np>
+Você pode clicar com o botão direito na peça de conexão de um tubo usando o Martelo de Engenheiro para impedir que ele conecte naquele lado.
+Os Tubos de Fluido podem ser cobertos com andaimes de madeira ou aço. Basta clicar com o botão direito numa peça de andaime sobre o tubo para cobri-lo. Quebre o tubo para recuperar o andaime.
+Além disso, clicar com o botão direito num tubo com qualquer corante o colore, para identificar facilmente para onde ele vai. Tubos coloridos não conectam automaticamente a novos colocados.<np>
+<&pump_recipe>As Bombas de Fluido têm três funções essenciais. Podem ser usadas para inserir em tubos sob alta pressão, para transferir fluidos bem mais rápido, ou podem coletar fluidos do mundo.
+Usar o martelo na base da bomba alterna os lados entre entrada e saída.<np>
+Para a bomba coletar blocos de fluido, ela precisa de uma entrada de energia no topo e um sinal de redstone. Bombas também podem ser usadas para extrair de tanques e outros recipientes de fluido que não têm saída automática. Isso também exige um sinal de redstone, mas não consome energia.<np>
+Blocos de água servem como fonte infinita de fluido para a bomba, desde que mais de 3 blocos estejam conectados.
+
+Blocos de fluido coletados são substituídos por pedregulho para reduzir o lag de fluidos fluindo. Esse comportamento pode ser ligado e desligado usando o Martelo de Engenheiro na bomba.<np>
+<&outlet_recipe>A Saída de Fluido funciona como ponto final de um sistema de tubos, permitindo colocar fluido no mundo. Os lados podem ser configurados entre entrada, saída (portão aberto) ou fechado; um sinal de redstone pode ser usado para desligar a saída. O bloco só emite fluido até a sua própria altura.

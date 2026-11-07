@@ -1,0 +1,5 @@
+Silo
+Cheio até a borda!
+Silos oferecem espaço para muitos itens do mesmo tipo, tornando-os excelentes para armazenamento em massa de sementes, escória ou pedregulho. Eles têm espaço para 41472 itens, o equivalente à capacidade de 24 baús.
+Os itens devem entrar pelo topo e ser extraídos pela base. Aplicar um sinal de redstone ao bloco da base faz o silo emitir automaticamente.
+Um comparador ligado ao bloco central da base emitirá sinal de redstone proporcional ao nível de enchimento do silo. Ligar o comparador a uma das 6 camadas superiores resulta em sinal proporcional à altura do comparador. Por exemplo, um comparador ligado à terceira camada de um silo não emitirá sinal até o silo estar 2/6 cheio e terá intensidade 15 se o silo estiver pela metade ou mais.

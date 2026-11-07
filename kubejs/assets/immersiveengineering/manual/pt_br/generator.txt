@@ -1,0 +1,7 @@
+Geração de Energia
+
+<&dynamo_recipe>Transferir energia é bem útil desde que você tenha energia. Para realmente gerar Flux, você pode usar as forças cinéticas de moinhos de vento e rodas d'água. Conectar isso a um dínamo gera energia com base na velocidade de giro.<np>
+<&waterwheel_recipes>A Roda d'Água é uma forma bem fácil de alimentar um dínamo. Sua velocidade de giro depende da água fluindo ao redor, então para resultados ideais, direcione a água num semicírculo do topo desçendo por um lado e passando pela base. Até três rodas d'água podem ser colocadas juntas.<np>
+<&windmill_recipes>O Moinho de Vento é uma forma gratuita e fácil de gerar energia, embora não muito potente. Sua velocidade depende do espaço à sua frente, com a saída cinética reduzindo bastante se o fluxo de ar for obstruído. Além disso, condições climáticas como chuva ou tempestades resultam em ventos mais fortes e giros mais rápidos.<np>
+<&sail_recipe>Sua geração de energia eólica pode ser melhorada cobrindo as pás do moinho com tecido. Isso aumenta a área de superfície e, com ela, a velocidade de giro e a produção de energia.
+As velas necessárias são fabricadas de <link;hemp;tecido de cânhamo resistente;start> e aplicadas ao moinho clicando com o botão direito nele no mundo.

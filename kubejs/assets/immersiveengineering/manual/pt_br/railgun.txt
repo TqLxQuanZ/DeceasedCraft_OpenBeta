@@ -1,0 +1,13 @@
+Canhão Eletromagnético
+Velocitas Eradico
+O Canhão Eletromagnético (ou mais precisamente a Catapulta de Indução Portátil) é uma maravilha da engenharia. Consiste em dois trilhos por onde uma corrente elétrica flui e acelera um trenó e, com ele, um projétil.
+O processo consome muita energia, mas acelera vários projéteis a altas velocidades.
+Para lançar um projétil do seu inventário, clique e segure o botão de uso até o nível de carga chegar a 99, e então solte.
+
+Projéteis comuns incluem hastes de §2ferro§r, §2alumínio§r e §2aço§r, assim como §2eletrodos de grafite§r. Porém, você também pode disparar projéteis mais exóticos, como §2varas de blaze§r que incendeiam alvos, §2end rods§r que podem de fato acertar endermen, §2pérolas de ender§r para aumentar seu alcance, <link;buzzsaw;§2lâminas de serra§r> que atravessam alvos, ou §2tridentes§r.
+Para alternar entre projéteis, agache e role a roda do mouse ou use o atalho §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r se estiver configurado nas opções.
+
+Devido ao baixo armazenamento interno de energia, é recomendado usar o canhão junto de uma <link;powerpack;Mochila de Acumulador>.
+Como outras ferramentas IE, o canhão pode ser modificado na <link;workbench;Bancada de Engenheiro> e personalizado com <link;shader;Shaders>.<np>
+<&speed>Os §2Dissipadores Avançados§r ajudam a mitigar o acúmulo de calor durante o processo de carga, reduzindo bastante o tempo de carga do canhão.<np>
+<&scope>A §2Mira de Precisão§r permite dar zoom com o canhão. Use §l<keybind;key.immersiveengineering.railgunZoom>§r para usar a mira e role a roda do mouse para alternar os níveis de ampliação.

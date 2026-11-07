@@ -1,0 +1,15 @@
+Forno a Arco
+Não é um reator
+O Forno a Arco é uma estrutura enorme usada para fundir metais rapidamente. Consiste em uma cuba de aço coroada por eletrodos que aquecem o metal.
+O forno se destaca na fundição de minérios e na criação de aço devido à alta velocidade e à capacidade de processar múltiplos itens ao mesmo tempo, mas também é complexo em seu funcionamento e exige manutenção para continuar operando.
+A escória precisa ser removida da máquina ou ela para de funcionar, e os eletrodos degradados precisam ser substituídos com o tempo.
+Para formar a estrutura, monte-a como mostrado na primeira página e clique no caldeirão com o Martelo de Engenheiro.
+A energia entra pelos três conectores na traseira, e fornecer um sinal de redstone ao painel de controle frontal desliga a máquina. Clicar com o botão direito no painel, no 'balde' ou na cuba abre a interface.<np>
+§lInterface:§r
+A interface pode parecer confusa à primeira vista, mas é bem direta.
+
+Os três espaços no topo são para os <link;graphite;Eletrodos de Grafite;electrode>.
+Os doze espaços à esquerda são as entradas para metais e minérios. Cada espaço tem uma barra de temperatura ao lado, representando o progresso da fundição.
+Os quatro espaços à direita são para "aditivos", materiais diferentes adicionados ao metal fundido durante o processo de fabricação. Um exemplo é adicionar Pó de Coque ao Ferro derretido para criar Aço.
+Entradas e aditivos são inseridos pelas duas aberturas no topo da estrutura, entradas à esquerda e aditivos à direita dos eletrodos.
+Os sete espaços na base são seis saídas e um espaço para escória. As saídas são retiradas pelo 'balde' na frente da estrutura; a escória sai pela porta na traseira. O Forno a Arco empurra automaticamente saídas e escória para inventários conectados (incluindo esteiras).

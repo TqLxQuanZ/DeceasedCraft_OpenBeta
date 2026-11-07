@@ -1,0 +1,6 @@
+Fermentador
+Skál!
+O Fermentador é uma estrutura multibloco que extrai etanol de certas frutas, grãos e vegetais através de um processo de fermentação. A estrutura é montada como mostrado acima e formada usando o Martelo de Engenheiro no caldeirão central, pelo lado que tem os Blocos de Engenharia.
+Os itens entram no Fermentador pelas duas aberturas na traseira marcadas com pontos azuis. A abertura com ponto laranja serve como saída de itens e o bloco abaixo dela como saída de fluidos.
+Aplicar um sinal de redstone ao painel de controle frontal interrompe o processo da máquina; esse comportamento pode ser invertido com a Chave de Fenda de Engenheiro.
+<np>A lista a seguir mostra vários itens que podem ser fermentados em etanol e a quantidade produzida.<&list>

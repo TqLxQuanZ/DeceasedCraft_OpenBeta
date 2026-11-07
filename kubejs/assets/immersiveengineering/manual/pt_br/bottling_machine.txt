@@ -1,0 +1,10 @@
+Máquina de Envase
+Encha Tudo!
+<&multiblock>A Máquina de Envase enche recipientes com fluidos.
+A estrutura é criada como mostrado acima, mas pode ser espelhada. Para formá-la, clique com o botão direito na esteira central usando o Martelo de Engenheiro. A direção das esteiras é importante.<np>
+A máquina pode armazenar 8 baldes de fluido, que entra pelas portas no tanque de metal. A energia entra pela conexão no topo do lado oposto.<br>
+Geralmente, a Máquina de Envase consegue encher qualquer recipiente que tenha uma versão cheia disponível (balde, garrafa de vidro). Ela também aceita outros itens que armazenam fluidos, como a <link;mining_drill;Furadeira de Mineração;start> ou um <link;jerrycan;Bidão;start>.
+A máquina retém o recipiente até que esteja completamente cheio ou até que não receba mais fluido. Isso permite encher até recipientes maiores, desde que receba entrada constante de fluido.
+Esse comportamento pode ser desativado agachando e clicando com o botão direito usando o Martelo de Engenheiro.<np>
+<&potions>A máquina pode ser usada para envasar poções preparadas na <link;mixer;Misturadora>.<br>
+Além disso, serve para criar <link;plastic;itens de duroplast;duroplast_sheet> a partir de resina e <link;redstone_acid;oxidar blocos de cobre;copper> com ácido de redstone.

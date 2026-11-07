@@ -1,0 +1,9 @@
+Cânhamo Industrial
+Tecido 530
+<&items>O Cânhamo Industrial é uma planta notável! Não só suas sementes são úteis para a criação de <link;refinery;Biodiesel;diesel>, como as fibras de cânhamo também são usadas para criar Tecido Resistente.
+As sementes podem ser obtidas quebrando grama alta.<np>
+<&fabric_recipe>O Tecido Resistente é uma trama resistente feita de fibra de cânhamo. É usado para criar <link;generator;Moinhos Aprimorados;sail_recipe>, assim como <link;balloon;Balões;start> e <link;this;Colchões de Salto;cushion_recipe>.<np>
+<&cushion_recipe>Colchões de Salto são blocos simples criados de tecido resistente e inflados com ar. Eles conseguem absorver impactos e impedir dano de queda quando pousados, mas, diferente dos blocos de slime, não jogam você de volta para cima.<np>
+<&curtain_recipe>Cortinas de Tiras são pedaços de tecido montados em portais ou outras aberturas para bloquear a visão.
+Quando uma entidade passa por elas, elas emitem um sinal de redstone. Clique nelas com a Chave de Fenda de Engenheiro para ativar sinais fortes.
+Elas podem ser tingidas da mesma forma que armadura de couro.

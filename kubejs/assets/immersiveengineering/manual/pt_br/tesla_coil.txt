@@ -1,0 +1,9 @@
+Bobina de Tesla
+Esta vai até 11
+<&tesla_coil_recipe>A Bobina de Tesla começou como um conceito de transferência sem fio de energia. Porém, devido às suas taxas de perda potencialmente altas e à sua propriedade bem interessante de fritar todo ser vivo num raio de 6 metros, ela foi rapidamente convertida num sonho de defesa doméstica do Engenheiro.<np>
+O custo de manutenção desta máquina é alto, chegando a 256 Flux em consumo passivo mais 512 adicionais toda vez que ela causa dano.
+A bobina fica desativada a menos que receba um sinal de redstone. Clicar nela com a Chave de Fenda de Engenheiro inverte esse comportamento.
+Além do dano, os choques também aplicam um efeito persistente, "Atordoado", impedindo a entidade de se teletransportar.
+Agachar e clicar na bobina com a Chave de Fenda de Engenheiro alterna entre modo de alta e baixa potência. Para fazer isso com segurança, a bobina precisa estar desligada. Ela fica em modo de alta potência por padrão. Em modo de baixa potência, ela usa metade da energia usual e tem metade do alcance.<np>
+<&faraday_recipes>Se você estiver vestindo um traje de Faraday completo, uma bobina em modo de baixa potência não te machuca, mas ainda dispara raios em você. O traje também protege contra fiação não isolada. Bobinas em modo de alta potência usam técnicas especiais para tornar suas descargas mais letais e farão o traje derreter, aumentando o dano causado a você e ainda danificando o traje.<np>
+<&tube_recipes>Tubos fluorescentes brilham quando colocados dentro de um campo elétrico forte de alta frequência. Tal frequência é gerada por qualquer bobina de tesla, então colocar um tubo perto de uma bobina ativa o faz brilhar. O alcance é cerca de 1,5x o alcance em que você levaria um raio. Eles podem ser coloridos na bancada de engenheiro e girados agachando + clicando com o Martelo de Engenheiro. Os tubos podem ser recolhidos diretamente agachando + clicando com a mão vazia.

@@ -1,0 +1,6 @@
+Aquecedor Externo
+Agora sim está cozinhando com flux!
+<&recipe>O Aquecedor Externo faz exatamente o que o nome indica: gera energia térmica a partir de Flux. Quando colocado ao lado de uma fornalha comum, essa energia térmica alimenta a fornalha, permitindo fundir sem nenhum combustível dentro dela.<np>
+Clique num lado do aquecedor com o martelo para torná-lo um aceitador de energia; agache-se para mirar no lado oposto.
+O aquecedor consome §o8 Flux/t§r por cada unidade de calor adicionada. Durante a fase inicial da fornalha, o aquecedor produz até §o4§r unidades de calor por tick, mas assim que a fornalha atinge a temperatura máxima, ela exige apenas §o1§r unidade de calor para se manter.<np>
+Melhor ainda: enquanto a fornalha estiver na temperatura máxima, o aquecedor consumirá mais §o24 Flux/t§r para aumentar a velocidade de processamento dela. O aquecedor só afeta uma fornalha com entrada válida e espaço na saída, para economizar energia. Você pode, porém, aplicar um sinal de redstone ao aquecedor para desativar essa função e mantê-la em calor máximo.
